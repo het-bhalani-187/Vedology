@@ -1,0 +1,2447 @@
+[
+  {
+    "id": "katha_peace_0",
+    "source": "Katha Upanishad",
+    "text_type": "Upanishad",
+
+    "section": "Peace Chant",
+    "section_number": 0,
+    "verse_number": 0,
+
+    "entry_type": "chant",
+
+    "characters": ["Teacher", "Student"],
+    "speaker": "narrator",
+
+    "sanskrit": "ॐ सह नाववतु । सह नौ भुनक्तु । सह वीर्यं करवावहै । तेजस्वि नावधीतमस्तु मा विद्विषावहै । ॐ शान्तिः शान्तिः शान्तिः ॥",
+    "transliteration": "Om Saha Nau Avatu, Saha Nau Bhunaktu, Saha Veeryam Karavaavahai, Tejasvi Nau Adhitam Astu Maa Vidvishaavahai, Om Shanti Shanti Shanti",
+    "translation": "May He protect us both; may He nourish us both; may we work together with great energy; may our study be enlightening; may we not hate each other.",
+    "meaning": "A prayer for harmony, strength, and unity in learning between teacher and student.",
+
+    "semantic_summary": "Establishes ideal spiritual learning conditions.",
+    "deep_explanation": "This chant reflects the Vedic education system where knowledge transmission requires unity, ego-less interaction, and divine guidance.",
+
+    "context_layer": {
+      "category": "invocation",
+      "theme": "learning harmony"
+    },
+
+    "philosophical_tags": ["guru_shishya", "peace", "learning", "unity"],
+
+    "keywords": ["peace mantra", "upanishad chant"],
+
+    "query_variants": [
+      "What is the peace chant of Katha Upanishad?",
+      "Meaning of Saha Nau Avatu",
+      "Why is peace chant recited before study?"
+    ],
+
+    "related_shlokas": ["katha_1_1"],
+
+    "importance_score": 10,
+    "difficulty_level": "introductory",
+
+    "embedding_hint": "vedic peace chant meaning teacher student unity"
+
+    
+  },
+
+
+
+  {
+    "id": "katha_1_1",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 1,
+
+    "entry_type": "narrative",
+
+    "characters": ["Vajasrava", "Nachiketas"],
+    "speaker": "narrator",
+
+    "sanskrit": "वाजश्रवसः सर्ववेदसं ददौ । तस्य ह नचिकेता नाम पुत्र आसीत् ॥",
+    "transliteration": "Vajashravasah Sarvavedasam Dadau, Tasya Ha Nachiketa Nama Putra Asit",
+    "translation": "Vajashrava gave away all his possessions in a sacrifice. He had a son named Nachiketas.",
+    "meaning": "Introduction of the sacrifice and the main character Nachiketas.",
+
+    "semantic_summary": "Beginning of the story — flawed sacrifice setup.",
+    "deep_explanation": "This verse introduces the ethical conflict: a sacrifice done for reward rather than purity.",
+
+    "context_layer": {
+      "category": "story_beginning",
+      "theme": "sacrifice"
+    },
+
+    "philosophical_tags": ["karma", "sacrifice", "dharma"],
+
+    "keywords": ["nachiketas", "vajasrava", "sacrifice"],
+
+    "query_variants": [
+      "Who is Nachiketas?",
+      "What is the story of Katha Upanishad?",
+      "Why did Vajashrava perform sacrifice?"
+    ],
+
+    "related_shlokas": ["katha_1_2", "katha_1_3"],
+
+    "importance_score": 10,
+    "difficulty_level": "introductory",
+
+    "embedding_hint": "nachiketas story beginning sacrifice conflict"
+
+    
+  },
+
+
+
+  {
+    "id": "katha_1_2",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 2,
+
+    "entry_type": "philosophical_narrative",
+
+    "characters": ["Nachiketas"],
+    "speaker": "narrator",
+
+    "sanskrit": "पीतोदका जग्धतृणा दुग्धदोहा निरिन्द्रियाः । अनन्दा नाम ते लोकास्तान् स गच्छति ता ददत् ॥",
+    "transliteration": "Pitodaka Jagdhatrina Dugdhadoha Nirindriyah, Ananda Nama Te Lokas Tan Sa Gachchhati Ta Dadat",
+    "translation": "Those cows that have drunk water, eaten grass, and given milk are worn out. He who gives such useless things goes to joyless worlds.",
+    "meaning": "Giving worthless things in charity leads to negative outcomes.",
+
+    "semantic_summary": "Nachiketas detects ethical flaw in sacrifice.",
+    "deep_explanation": "True sacrifice requires value and sincerity. Hollow actions lead to negative karmic results.",
+
+    "context_layer": {
+      "category": "ethical_realization",
+      "theme": "true sacrifice"
+    },
+
+    "philosophical_tags": ["karma", "ethics", "truth"],
+
+    "keywords": ["wrong donation", "ethics of sacrifice"],
+
+    "query_variants": [
+      "What is wrong sacrifice?",
+      "Why did Nachiketas criticize his father?",
+      "Meaning of giving useless charity"
+    ],
+
+    "related_shlokas": ["katha_1_3"],
+
+    "importance_score": 10,
+    "difficulty_level": "intermediate",
+
+    "embedding_hint": "ethics of donation karma consequences"
+
+  },
+
+{
+  "id": "katha_1_3",
+  "source": "Katha Upanishad",
+
+  "section": "Part First",
+  "section_number": 1,
+  "verse_number": 3,
+
+  "entry_type": "philosophical_commentary",
+
+  "characters": ["Nachiketas", "Vajasrava"],
+  "speaker": "narrator",
+
+  "sanskrit": "स होवाच पितरं ततो नचिकेताः । कथं नु नाम मे दास्यसीति बहूनामेमि प्रथमो बहूनामेमि मध्यमः । किं स्विद्यमस्य कर्तव्यं यन्मयाऽद्य करिष्यति ॥",
+  "transliteration": "Sa Hovāca Pitaraṁ Tato Nachiketāḥ, Kathaṁ Nu Nāma Me Dāsyasīti, Bahūnām Emi Prathamo Bahūnām Emi Madhyamaḥ, Kim Svid Yamasya Kartavyam Yan Mayā Adya Kariṣyati",
+  "translation": "Then Nachiketas said to his father: 'To whom will you give me?' Reflecting, he thought: 'Among many I stand first, among many I stand in the middle. What indeed will Yama do with me today?'",
+  "meaning": "Nachiketas begins questioning the integrity of the sacrifice and reflects on his own role within it.",
+
+  "semantic_summary": "Transition from passive observation to active moral questioning.",
+  "deep_explanation": "This verse marks a critical shift — Nachiketas moves from silent observation (verse 2) to ethical confrontation. He realizes that his father's sacrifice is flawed and incomplete. His questioning is not rebellion but dharmic correction. The internal reflection shows intellectual maturity — he evaluates his own worth not out of ego, but to understand whether he can fulfill the sacrificial requirement. This is the emergence of a seeker — someone who prioritizes truth over blind obedience.",
+
+  "context_layer": {
+    "category": "ethical_awareness",
+    "theme": "dharma_vs_ritual"
+  },
+
+  "philosophical_tags": [
+    "dharma",
+    "ethical_awakening",
+    "self_inquiry",
+    "truth",
+    "sacrifice"
+  ],
+
+  "keywords": [
+    "nachiketas questioning",
+    "flawed sacrifice",
+    "self reflection",
+    "ethical courage"
+  ],
+
+  "query_variants": [
+    "Why did Nachiketas question his father?",
+    "What does this verse say about dharma?",
+    "Is questioning authority allowed in Upanishads?",
+    "What is the role of self-inquiry in Katha Upanishad?"
+  ],
+
+  "related_shlokas": [
+    "katha_1_2",
+    "katha_1_4",
+    "katha_1_5"
+  ],
+
+  "importance_score": 10,
+  "difficulty_level": "advanced",
+
+  "embedding_hint": "ethical questioning dharma vs ritual nachiketas awakening"
+},
+
+  {
+    "id": "katha_1_4",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 4,
+
+    "entry_type": "dialogue",
+
+    "characters": ["Nachiketas", "Vajasrava"],
+    "speaker": "dialogue",
+
+    "sanskrit": "पितरं होवाच कस्मै मां दास्यसीति । मृत्यवे त्वा ददामीति ॥",
+    "transliteration": "Pitaram Hovacha Kasmai Mam Dasyasi Iti, Mrityave Tva Dadami Iti",
+    "translation": "He said to his father: To whom will you give me? The father replied: I give you to Death.",
+    "meaning": "Nachiketas is offered to Yama in anger.",
+
+    "semantic_summary": "Turning point — entry into death and knowledge.",
+    "deep_explanation": "This moment exposes ego and sets up the spiritual journey toward ultimate truth.",
+
+    "context_layer": {
+      "category": "conflict",
+      "theme": "ego vs truth"
+    },
+
+    "philosophical_tags": ["ego", "death", "dharma"],
+
+    "keywords": ["yama", "death", "anger"],
+
+    "query_variants": [
+      "Why was Nachiketas sent to Yama?",
+      "What did his father say?"
+    ],
+
+    "related_shlokas": ["katha_1_5", "katha_1_6"],
+
+    "importance_score": 10,
+    "difficulty_level": "introductory",
+
+    "embedding_hint": "nachiketas sent to yama meaning"
+
+  
+  },
+
+  {
+    "id": "katha_1_5",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 5,
+
+    "entry_type": "philosophical_reflection",
+
+    "characters": ["Nachiketas"],
+    "speaker": "Nachiketas",
+
+    "sanskrit": "बहूनामेमि प्रथमो बहूनामेमि मध्यमः । किं स्विद्यमस्य कर्तव्यं यन्मयाऽद्य करिष्यति ॥",
+    "transliteration": "Bahūnām Emi Prathamo Bahūnām Emi Madhyamaḥ, Kim Svid Yamasya Kartavyam Yan Mayā Adya Kariṣyati",
+    "translation": "Among many I stand first, among many I stand in the middle. What will Yama do with me today?",
+    "meaning": "Nachiketas evaluates his worth and purpose in being sent to Death.",
+
+    "semantic_summary": "Self-assessment before facing death.",
+    "deep_explanation": "This is not ego but conscious evaluation. Nachiketas reflects on his own value as a son and offering. It shows awareness, responsibility, and readiness to face consequences. This marks the psychological transition from a child to a seeker.",
+
+    "context_layer": {
+      "category": "inner_reflection",
+      "theme": "self_evaluation"
+    },
+
+    "philosophical_tags": ["self_awareness", "dharma", "duty", "introspection"],
+
+    "keywords": ["self worth", "nachiketas reflection", "purpose"],
+
+    "query_variants": [
+      "Why did Nachiketas evaluate himself?",
+      "What does this verse say about self-awareness?",
+      "Is this ego or awareness?"
+    ],
+
+    "related_shlokas": ["katha_1_6"],
+
+    "importance_score": 9,
+    "difficulty_level": "intermediate",
+
+    "embedding_hint": "self reflection before death awareness vedanta"
+  },
+
+  {
+    "id": "katha_1_6",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 6,
+
+    "entry_type": "philosophical",
+
+    "characters": ["Nachiketas"],
+    "speaker": "Nachiketas",
+
+    "sanskrit": "अनुपश्य यथा पूर्वे प्रतिपश्य तथाऽपरे । सस्यं इव मर्त्यः पच्यते सस्यं इवाजायते पुनः ॥",
+    "transliteration": "Anupaśya Yathā Pūrve Pratipaśya Tathāpare, Sasyam Iva Martyaḥ Pachyate Sasyam Iva Jāyate Punaḥ",
+    "translation": "Look at those who lived before and those who live now. Like grain, the mortal decays and like grain he is born again.",
+    "meaning": "Life is cyclical — death and rebirth are natural.",
+
+    "semantic_summary": "Statement of samsara (cycle of birth and death).",
+    "deep_explanation": "Nachiketas uses the analogy of crops to explain samsara. Just as grain is harvested and regrows, life continuously cycles through birth and death. This removes fear of death and reframes it as transformation, not end.",
+
+    "context_layer": {
+      "category": "core_philosophy",
+      "theme": "rebirth_cycle"
+    },
+
+    "philosophical_tags": ["samsara", "rebirth", "impermanence", "existence"],
+
+    "keywords": ["cycle of life", "rebirth", "death"],
+
+    "query_variants": [
+      "What is samsara in Katha Upanishad?",
+      "Does the soul die?",
+      "Meaning of rebirth in Upanishads"
+    ],
+
+    "related_shlokas": ["katha_2_1"],
+
+    "importance_score": 10,
+    "difficulty_level": "intermediate",
+
+    "embedding_hint": "cycle of birth death rebirth vedanta samsara"
+  },
+
+  {
+    "id": "katha_1_7",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 7,
+
+    "entry_type": "ritual_principle",
+
+    "characters": ["Yama's attendants"],
+    "speaker": "household",
+
+    "sanskrit": "वैश्वानरः प्रविशत्यतिथिर्ब्राह्मणो गृहान् । तस्यैतां शान्तिं कुर्वन्ति हर वैवस्वतोदकम् ॥",
+    "transliteration": "Vaiśvānaraḥ Praviśaty Atithir Brāhmaṇo Gṛhān, Tasyaitāṁ Śāntiṁ Kurvanti Hara Vaivasvata Udakam",
+    "translation": "A Brahmana guest enters a house like fire. To appease him, water must be offered.",
+    "meaning": "A guest must be treated with reverence.",
+
+    "semantic_summary": "Guest = sacred presence.",
+    "deep_explanation": "The guest is equated to fire (Vaishvanara), symbolizing divine presence. Fire can nourish or destroy — similarly, neglecting a guest brings negative consequences.",
+
+    "context_layer": {
+      "category": "ritual_ethics",
+      "theme": "hospitality"
+    },
+
+    "philosophical_tags": ["dharma", "guest", "sacred_duty"],
+
+    "keywords": ["atithi devo bhava", "guest ritual"],
+
+    "query_variants": [
+      "Why is guest compared to fire?",
+      "What is Atithi Devo Bhava?"
+    ],
+
+    "related_shlokas": ["katha_1_8"],
+
+    "importance_score": 9,
+    "difficulty_level": "intermediate",
+
+    "embedding_hint": "guest as fire vedic hospitality meaning"
+  },
+
+  {
+    "id": "katha_1_8",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 8,
+
+    "entry_type": "ethical_warning",
+
+    "characters": ["Yama's attendants"],
+    "speaker": "household",
+
+    "sanskrit": "आशाः प्रतीक्षा सङ्गतं सूनृतां चेष्टापूर्ते पुत्रपशूंश्च सर्वान् । एतद् वृङ्क्ते पुरुषस्याल्पमेधसो यस्यानश्नन् वसति ब्राह्मणो गृहे ॥",
+    "transliteration": "Āśāḥ Pratīkṣā Saṅgataṁ Sūnṛtāṁ Ceṣṭāpūrte Putrapaśūṁś Ca Sarvān, Etad Vṛṅkte Puruṣasyālpa Medhaso Yasyānaśnan Vasati Brāhmaṇo Gṛhe",
+    "translation": "All hopes, expectations, good deeds, and possessions are destroyed for one in whose house a Brahmana guest stays unfed.",
+    "meaning": "Neglecting duty destroys accumulated merit.",
+
+    "semantic_summary": "Failure of dharma leads to total loss.",
+    "deep_explanation": "This is not literal punishment but symbolic — failure in core duty invalidates all other achievements.",
+
+    "context_layer": {
+      "category": "ethical_law",
+      "theme": "karma_loss"
+    },
+
+    "philosophical_tags": ["karma", "dharma", "duty", "consequence"],
+
+    "keywords": ["karma destruction", "duty failure"],
+
+    "query_variants": [
+      "What happens if guest is neglected?",
+      "Does karma get destroyed?"
+    ],
+
+    "related_shlokas": ["katha_1_7"],
+
+    "importance_score": 9,
+    "difficulty_level": "advanced",
+
+    "embedding_hint": "neglect dharma destroys merit vedanta"
+  },
+
+  {
+    "id": "katha_1_9",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 9,
+
+    "entry_type": "dialogue",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "तिस्रो रात्रीर्यदवात्सीर्गृहे मेऽनश्नन् ब्रह्मन्नतिथिर्नमस्यः । नमस्तेऽस्तु ब्रह्मन् स्वस्ति मेऽस्तु तस्मात्प्रतीन्येषि वरान् वृणीष्व ॥",
+    "transliteration": "Tisro Rātrīr Yad Avātsīr Gṛhe Me'naśnan Brahmann Atithir Namasyah, Namaste'stu Brahman Svasti Me'stu Tasmāt Pratīn Yeṣi Varān Vṛṇīṣva",
+    "translation": "O revered guest, you have stayed three nights without food. I bow to you. Choose three boons.",
+    "meaning": "Yama compensates for his failure in hospitality.",
+
+    "semantic_summary": "Justice through compensation.",
+    "deep_explanation": "Yama acknowledges his lapse and restores balance through boons — showing cosmic fairness.",
+
+    "context_layer": {
+      "category": "justice",
+      "theme": "compensation"
+    },
+
+    "philosophical_tags": ["justice", "dharma"],
+
+    "keywords": ["three boons", "yama"],
+
+    "query_variants": [
+      "Why three boons?",
+      "Why did Yama apologize?"
+    ],
+
+    "related_shlokas": ["katha_1_10"],
+
+    "importance_score": 10,
+    "difficulty_level": "intermediate",
+
+    "embedding_hint": "yama gives three boons justice dharma"
+  },
+
+  {
+    "id": "katha_1_10",
+    "source": "Katha Upanishad",
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 10,
+
+    "entry_type": "boon_request",
+
+    "characters": ["Nachiketas"],
+    "speaker": "Nachiketas",
+
+    "sanskrit": "शान्तसंकल्पः सुमना यथा स्याद् वीतमन्युर्गौतमो मा अभि मृत्यो । त्वत्प्रसृष्टं मा अभिवदेत् प्रतीत एतत्त्रयाणां प्रथमं वरं वृणे ॥",
+    "transliteration": "Śānta Saṅkalpaḥ Sumanā Yathā Syād Vīta Manyur Gautamo Mā Abhi Mṛtyo, Tvatprasṛṣṭaṁ Mā Abhivadet Pratīta Etat Trayāṇām Prathamaṁ Varam Vṛṇe",
+    "translation": "May my father be free from anger, calm in mind, and recognize me when I return from death. This is my first boon.",
+    "meaning": "Nachiketas chooses emotional restoration and relational harmony over any material or personal gain.",
+
+
+    "semantic_summary": "Selfless first desire.",
+    "deep_explanation": "This verse establishes the psychological and ethical foundation of Nachiketas’ character. Instead of asking for wealth or power, he prioritizes resolving the disturbance created by his father’s anger. This reflects a key Vedantic principle: higher knowledge cannot be pursued effectively when fundamental emotional conflicts remain unresolved. The father represents authority, lineage, and karmic continuity — restoring that relationship symbolizes restoring internal alignment. This is not just filial duty; it is systemic correction. Nachiketas demonstrates detachment from ego and alignment with dharma, showing he is qualified to receive higher knowledge.",
+
+
+    "context_layer": {
+      "category": "boon",
+      "theme": "family"
+    },
+
+    "philosophical_tags": ["selflessness", "family", "dharma"],
+
+    "keywords": ["first boon"],
+
+    "query_variants": [
+      "What was first boon?",
+      "Why choose father?"
+    ],
+
+    "related_shlokas": ["katha_1_11"],
+
+    "importance_score": 10,
+    "difficulty_level": "intermediate",
+
+    "embedding_hint": "first boon father peace nachiketas"
+  },
+
+  
+  {
+    "id": "katha_1_11",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 11,
+
+    "entry_type": "boon_response",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "यथा पुरस्ताद्भविता प्रतीतः औद्दालकिरारुणिर्मत्प्रसृष्टः । सुखं रात्रीः शयिता वीतमन्युः त्वां ददर्शिवान् मृत्युमुखात् प्रमुक्तम् ॥",
+    "transliteration": "Yathā Purastād Bhavitā Pratītaḥ Auddālakiḥ Āruṇir Matprasṛṣṭaḥ, Sukhaṁ Rātrīḥ Śayitā Vīta Manyuḥ Tvāṁ Dadarśivān Mṛtyumukhāt Pramuktam",
+    "translation": "As before, your father will recognize you and be free from anger. He will sleep peacefully at night when he sees you released from the jaws of death.",
+    "meaning": "Yama grants the first boon by restoring emotional balance and removing the father’s anger.",
+
+
+    "semantic_summary": "Restoration of emotional and relational harmony.",
+    "deep_explanation": "This verse completes the emotional loop created earlier. The father’s anger was not just a personal flaw — it represented a disruption in dharma caused by ignorance and improper intention during the sacrifice. Yama’s granting of this boon restores psychological equilibrium and karmic order. The phrase ‘sleep peacefully’ is symbolic — it represents mental rest and absence of agitation. This shows that dharma, when corrected, removes both external and internal disturbances. It also reinforces that spiritual progress does not bypass human responsibilities — it integrates and resolves them.",
+
+
+    "context_layer": {
+      "category": "boon_granted",
+      "theme": "restoration"
+    },
+
+    "philosophical_tags": ["dharma", "karma_resolution", "peace", "family"],
+
+    "keywords": ["first boon fulfilled", "father restored"],
+
+    "query_variants": [
+      "What happened to Nachiketas' father?",
+      "Did Yama grant the first boon?",
+      "What does this verse teach about dharma?"
+    ],
+
+    "related_shlokas": ["katha_1_10", "katha_1_12"],
+
+    "importance_score": 9,
+    "difficulty_level": "intermediate",
+
+    "embedding_hint": "restoration of father peace karma resolution vedanta"
+  },
+
+  {
+    "id": "katha_1_12",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 12,
+
+    "entry_type": "philosophical_statement",
+
+    "characters": ["Nachiketas"],
+    "speaker": "Nachiketas",
+
+    "sanskrit": "स्वर्गे लोके न भयं किंचनास्ति न तत्र त्वं न जरया बिभेति । उभे तीर्त्वाऽशनायापिपासे शोकातिगो मोदते स्वर्गलोके ॥",
+    "transliteration": "Svarge Loke Na Bhayaṁ Kiñcanāsti Na Tatra Tvaṁ Na Jarayā Bibheti, Ubhe Tīrtvā Aśanāyā Pipāse Śokātigo Modate Svargaloke",
+    "translation": "In the realm of heaven there is no fear; you are not there, nor is there fear of old age. Having crossed hunger and thirst, one rejoices beyond sorrow.",
+    "meaning": "Heaven is described as a state free from physical decay, fear, and suffering.",
+
+    "semantic_summary": "Heaven as a state beyond fear, decay, and suffering.",
+    "deep_explanation": "Nachiketas demonstrates conceptual clarity by describing heaven not merely as a place, but as a condition of existence free from biological and emotional limitations. Fear arises from uncertainty and attachment; old age from time-bound existence; hunger and thirst from bodily dependence. Their absence indicates a higher plane of experience. However, this is still within duality — it is an improved state, not the ultimate state. This distinction is critical: heaven is a refined experience, but still part of the system (samsara), not liberation (moksha). Nachiketas understands this distinction, which is why he moves beyond it later.",
+
+    "context_layer": {
+      "category": "concept_definition",
+      "theme": "heaven"
+    },
+
+    "philosophical_tags": ["heaven", "freedom", "transcendence", "absence_of_suffering"],
+
+    "keywords": ["heaven description", "freedom from suffering"],
+
+    "query_variants": [
+      "What is heaven according to Katha Upanishad?",
+      "Is heaven free from suffering?",
+      "Does heaven have fear or death?"
+    ],
+
+    "related_shlokas": ["katha_1_13"],
+
+    "importance_score": 10,
+    "difficulty_level": "intermediate",
+
+    "embedding_hint": "heaven state beyond fear hunger aging vedanta"
+  },
+
+  {
+    "id": "katha_1_13",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 13,
+
+    "entry_type": "boon_request",
+
+    "characters": ["Nachiketas"],
+    "speaker": "Nachiketas",
+
+    "sanskrit": "स त्वमग्निं स्वर्ग्यमध्येषि मृत्यो प्रब्रूहि त्वं श्रद्धधानाय मह्यम् । स्वर्गलोका अमृतत्वं भजन्त एतद्द्वितीयेन वृणे वरेण ॥",
+    "transliteration": "Sa Tvam Agniṁ Svargyam Adhyeṣi Mṛtyo Prabrūhi Tvam Śraddadhānāya Mahyam, Svargalokā Amṛtatvaṁ Bhajanta Etad Dvitīyena Vṛṇe Vareṇa",
+    "translation": "O Death, you know the fire that leads to heaven. Teach it to me who has faith. This I choose as my second boon.",
+    "meaning": "Nachiketas seeks structured knowledge of the process that leads to higher states of existence.",
+
+    "semantic_summary": "Request for structured ritual knowledge leading to higher realms.",
+     "deep_explanation": "This request is not about ritual performance alone — it is about understanding the underlying system that governs transition to higher states. The key word here is ‘Shraddha’ (deep trust combined with focused intent). Shraddha is not blind belief; it is a cognitive alignment that allows knowledge to be internalized. Nachiketas is asking for a reproducible method — a structured pathway. This reflects a scientific mindset within a spiritual framework: he is not satisfied with belief, he wants a mechanism.",
+
+
+    "context_layer": {
+      "category": "boon_request",
+      "theme": "knowledge"
+    },
+
+    "philosophical_tags": ["knowledge", "shraddha", "ritual", "heaven"],
+
+    "keywords": ["second boon", "nachiketa fire"],
+
+    "query_variants": [
+      "What is the second boon of Nachiketas?",
+      "What is Nachiketa fire?",
+      "Why is Shraddha important?"
+    ],
+
+    "related_shlokas": ["katha_1_14"],
+
+    "importance_score": 10,
+    "difficulty_level": "intermediate",
+
+    "embedding_hint": "second boon fire sacrifice knowledge shraddha vedanta"
+  },
+
+  {
+    "id": "katha_1_14",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 14,
+
+    "entry_type": "teaching",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "प्र ते ब्रवीमि तदु मे निबोध स्वर्ग्यमग्निं नचिकेतः प्रजानन् । अनन्तलोकाप्तिमथो प्रतिष्ठां विद्धि त्वमेतं निहितं गुहायाम् ॥",
+    "transliteration": "Pra Te Bravīmi Tad U Me Nibodha Svargyam Agniṁ Nachiketaḥ Prajānan, Anantalokāptim Atho Pratiṣṭhāṁ Viddhi Tvam Etaṁ Nihitaṁ Guhāyām",
+    "translation": "I will tell you that fire which leads to heaven. Understand it well, O Nachiketas — it is the foundation of all worlds and hidden in the heart.",
+    "meaning": "The fire (Agni) is both an external ritual and an internal principle of transformation.",
+
+    "semantic_summary": "Fire as both ritual and inner principle.",
+    "deep_explanation": "Agni operates on multiple levels simultaneously. On the outer level, it is the sacrificial fire used in rituals. On the inner level, it represents transformative energy — the capacity to convert lower states into higher ones (ignorance into knowledge, inertia into action). When Yama says it is ‘hidden,’ he indicates that the same principle exists within human consciousness. This dual interpretation is essential in Vedanta: external practices are symbolic representations of internal processes. Without understanding the inner layer, ritual becomes mechanical and loses its transformative power.",
+
+
+    "context_layer": {
+      "category": "knowledge_transfer",
+      "theme": "inner_symbolism"
+    },
+
+    "philosophical_tags": ["agni", "knowledge", "inner_fire", "consciousness"],
+
+    "keywords": ["fire symbolism", "inner energy"],
+
+    "query_variants": [
+      "What is the meaning of Agni in Upanishads?",
+      "Is fire symbolic or literal?"
+    ],
+
+    "related_shlokas": ["katha_1_15"],
+
+    "importance_score": 10,
+    "difficulty_level": "advanced",
+
+    "embedding_hint": "agni as inner consciousness vedanta symbolism"
+  },
+
+  {
+    "id": "katha_1_15",
+    "source": "Katha Upanishad",
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 15,
+
+    "entry_type": "instruction",
+
+    "characters": ["Yama", "Nachiketas"],
+    "speaker": "Yama",
+
+    "sanskrit": "लोकादिमग्निं तमुवाच तस्मै या इष्टका यावतीर्वा यथा वा । स चापि तत्प्रत्यवदद्यथोक्तमथास्य मृत्युः पुनरेवाह तुष्टः ॥",
+    "transliteration": "Lokādiṁ Agniṁ Tam Uvāca Tasmai Yā Iṣṭakā Yāvatīr Vā Yathā Vā, Sa Cāpi Tat Pratyavadad Yathoktam Athāsya Mṛtyuḥ Punarevāha Tuṣṭaḥ",
+    "translation": "Yama explained the fire sacrifice — its structure, bricks, and method. Nachiketas repeated it correctly, pleasing Yama.",
+    "meaning": "Transmission and mastery of ritual knowledge.",
+
+    "semantic_summary": "Perfect learning and retention.",
+     "deep_explanation": "This verse highlights a critical distinction between passive hearing and active learning. Nachiketas does not merely listen — he processes, internalizes, and reproduces the knowledge with precision. This demonstrates cognitive clarity and discipline. In Vedantic terms, knowledge must pass through three stages: श्रवण (hearing), मनन (reflection), and निदिध्यासन (deep assimilation). Nachiketas successfully completes the first two here. His ability to reproduce the teaching exactly shows alignment between teacher and student — a necessary condition for higher knowledge transmission. This is not rote memorization; it is structured understanding.",
+
+    "context_layer": {
+      "category": "learning",
+      "theme": "mastery"
+    },
+
+    "philosophical_tags": ["discipline", "learning", "knowledge"],
+
+    "keywords": ["ritual mastery"],
+
+    "query_variants": [
+      "How did Nachiketas learn?",
+      "What is true learning?"
+    ],
+
+    "related_shlokas": ["katha_1_16"],
+
+    "importance_score": 9,
+    "difficulty_level": "advanced",
+
+    "embedding_hint": "learning mastery repetition vedanta"
+  },
+  
+  {
+    "id": "katha_1_16",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 16,
+
+    "entry_type": "boon_reward",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "तं ब्रवीमि ते नचिकेतोऽन्यं वरं तवैव नाम्ना भवितायमग्निः । स्रुङ्कां चेमामनेक रूपां गृहाणैतद् द्वितीयं वरं ते ॥",
+    "transliteration": "Tam Bravīmi Te Nachiketo'nyaṁ Varaṁ Tavaiva Nāmnā Bhavitāyam Agniḥ, Sruṅkāṁ Cemām Aneka Rūpāṁ Gṛhāṇa Etad Dvitīyaṁ Varaṁ Te",
+    "translation": "O Nachiketas, this fire shall be named after you. Accept this many-colored garland as an additional boon.",
+    "meaning": "Yama honors Nachiketas by naming the sacred fire after him.",
+
+    "semantic_summary": "Immortalization through knowledge.",
+    "deep_explanation": "Naming the fire after Nachiketas signifies that true knowledge leads to symbolic immortality. Physical existence ends, but knowledge-linked identity persists. The garland represents recognition — not material reward, but acknowledgment of worthiness. This reflects a deeper principle: when an individual fully understands a system, they become inseparable from it. Their identity merges with the knowledge they embody. This is why great discoveries are named after individuals — not as ego validation, but as markers of integration between knower and knowledge.",
+
+    "context_layer": {
+      "category": "reward",
+      "theme": "recognition"
+    },
+
+    "philosophical_tags": ["knowledge", "legacy", "immortality"],
+
+    "keywords": ["nachiketa fire", "reward"],
+
+    "query_variants": [
+      "Why is it called Nachiketa fire?",
+      "What reward did Yama give?"
+    ],
+
+    "related_shlokas": ["katha_1_15", "katha_1_17"],
+
+    "importance_score": 10,
+    "difficulty_level": "intermediate",
+
+    "embedding_hint": "knowledge leads to legacy immortality vedanta"
+  },
+
+  {
+    "id": "katha_1_17",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 17,
+
+    "entry_type": "philosophical_teaching",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "त्रिणाचिकेतस्त्रयमेतद्विदित्वा य एवं विद्वांश्चिनुते नाचिकेतम् । स मृत्युपाशान् पुरतः प्रणोद्य शोकातिगो मोदते स्वर्गलोके ॥",
+    "transliteration": "Triṇāchiketas Trayam Etad Viditvā Ya Evaṁ Vidvāṁś Cinute Nāciketam, Sa Mṛtyupāśān Purataḥ Praṇodya Śokātigo Modate Svargaloke",
+    "translation": "He who performs the Nachiketa fire thrice and understands it transcends death, overcomes sorrow, and rejoices in heaven.",
+    "meaning": "Proper knowledge and practice lead to transcendence.",
+
+    "semantic_summary": "Mastery of ritual leads beyond death.",
+    "deep_explanation": "The reference to ‘three times’ is symbolic rather than literal. It represents completeness — knowledge at all levels: intellectual (understanding), practical (application), and internal (realization). Partial knowledge produces partial results. When knowledge is integrated across all layers, it transforms the individual’s state of being. ‘Transcending death’ here refers to moving beyond fear and limitation associated with mortality, not literal physical immortality. This is a transitional liberation — not ultimate moksha, but elevation to a higher experiential plane."
+,
+
+    "context_layer": {
+      "category": "philosophy",
+      "theme": "transcendence"
+    },
+
+    "philosophical_tags": ["moksha", "ritual", "transcendence"],
+
+    "keywords": ["nachiketa fire result"],
+
+    "query_variants": [
+      "What happens after performing Nachiketa fire?",
+      "Can rituals remove death?"
+    ],
+
+    "related_shlokas": ["katha_1_18"],
+
+    "importance_score": 10,
+    "difficulty_level": "advanced",
+
+    "embedding_hint": "ritual mastery transcend death vedanta"
+  },
+
+  {
+    "id": "katha_1_18",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 18,
+
+    "entry_type": "philosophical",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "एष तेऽग्निर्नचिकेतः स्वर्ग्यो यमेन प्रोक्तो द्वितीयेन वरेण । एतं अग्निं तव नाम्ना प्रवक्ष्यन्ति जनाः ॥",
+    "transliteration": "Eṣa Te'gnir Nachiketaḥ Svargyo Yamena Prokto Dvitīyena Vareṇa, Etam Agniṁ Tava Nāmnā Pravakṣyanti Janāḥ",
+    "translation": "This is your fire, O Nachiketas, which leads to heaven. It shall be known by your name.",
+    "meaning": "Confirmation of Nachiketa fire as a path to heaven.",
+
+    "semantic_summary": "Validation of sacred knowledge.",
+    "deep_explanation": "This verse reinforces institutionalization of knowledge. Once a method is understood and verified, it becomes part of collective understanding. Naming it ensures continuity and transmission. This reflects how knowledge systems evolve — from discovery (individual) to validation (teacher confirmation) to propagation (societal recognition). In Vedantic terms, this marks the completion of the second boon — structured knowledge has been successfully transferred and authenticated."
+,
+
+    "context_layer": {
+      "category": "confirmation",
+      "theme": "knowledge_identity"
+    },
+
+    "philosophical_tags": ["identity", "knowledge"],
+
+    "keywords": ["nachiketa fire"],
+
+    "query_variants": [
+      "What is Nachiketa fire?",
+      "Why is it important?"
+    ],
+
+    "related_shlokas": ["katha_1_19"],
+
+    "importance_score": 9,
+    "difficulty_level": "intermediate",
+
+    "embedding_hint": "knowledge becomes identity vedanta"
+  },
+
+  {
+    "id": "katha_1_19",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 19,
+
+    "entry_type": "transition",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "एष तेऽग्निः स्वर्ग्यो य एतद्विदित्वा अनन्तलोकान् आप्नोति । नचिकेतः तृतीयं वरं वृणीष्व ॥",
+    "transliteration": "Eṣa Te'gnir Svargyo Ya Etad Viditvā Anantalokān Āpnoti, Nachiketaḥ Tṛtīyaṁ Varaṁ Vṛṇīṣva",
+    "translation": "This fire leads to infinite worlds. Now choose your third boon.",
+    "meaning": "Transition to the final and most important boon.",
+
+    "semantic_summary": "Shift to ultimate inquiry.",
+    "deep_explanation": "This verse is a pivot point. The second boon dealt with structured, knowable systems (ritual, cause-effect, higher states). Now Yama opens the space for the third boon — which moves beyond systems into fundamental reality. ‘Infinite worlds’ indicates that even the highest structured knowledge still operates within multiplicity. The third boon will transcend multiplicity itself. This marks a shift from epistemology (how to know and act) to ontology (what is ultimately real)."
+ ,
+
+    "context_layer": {
+      "category": "transition",
+      "theme": "ultimate_question"
+    },
+
+    "philosophical_tags": ["inquiry", "truth"],
+
+    "keywords": ["third boon"],
+
+    "query_variants": [
+      "What is the third boon?",
+      "Why is third boon important?"
+    ],
+
+    "related_shlokas": ["katha_1_20"],
+
+    "importance_score": 10,
+    "difficulty_level": "introductory",
+
+    "embedding_hint": "third boon ultimate question vedanta"
+  },
+
+  {
+    "id": "katha_1_20",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 20,
+
+    "entry_type": "core_question",
+
+    "characters": ["Nachiketas"],
+    "speaker": "Nachiketas",
+
+    "sanskrit": "येयं प्रेते विचिकित्सा मनुष्ये अस्तीत्येके नायमस्तीति चैके । एतद्विद्यामनुशिष्टस्त्वयाऽहं वराणामेष वरस्तृतीयः ॥",
+    "transliteration": "Yeyam Prete Vicikitsā Manuṣye Astīti Eke Nāyam Astīti Caike, Etad Vidyām Anuśiṣṭas Tvayāhaṁ Varāṇām Eṣa Varas Tṛtīyaḥ",
+    "translation": "There is this doubt: after death, some say one exists, others say one does not. Teach me this truth.",
+    "meaning": "The ultimate question of existence after death.",
+
+    "semantic_summary": "Central philosophical inquiry of the Upanishad.",
+    "deep_explanation": "This is the central philosophical question not just of the Katha Upanishad, but of all metaphysics: what is the nature of existence beyond physical death? Nachiketas frames it precisely — not as belief, but as a contradiction in knowledge claims. This shows intellectual maturity: he recognizes epistemic uncertainty and seeks resolution from a valid authority. This question goes beyond heaven, beyond reward — it targets the nature of the Self (Atman). This marks the transition from ritual knowledge to existential inquiry.",
+
+    "context_layer": {
+      "category": "core_question",
+      "theme": "existence"
+    },
+
+    "philosophical_tags": ["death", "soul", "existence", "truth"],
+
+    "keywords": ["after death", "soul"],
+
+    "query_variants": [
+      "What happens after death?",
+      "Does soul exist?",
+      "What is the main question of Katha Upanishad?"
+    ],
+
+    "related_shlokas": ["katha_1_21"],
+
+    "importance_score": 10,
+    "difficulty_level": "advanced",
+
+    "embedding_hint": "after death existence soul question vedanta"
+  },
+[
+  {
+    "id": "katha_1_21",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 21,
+
+    "entry_type": "refusal_test",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "देवैरेत्रापि विचिकित्सितं पुरा न हि सुविज्ञेयमनुरेष धर्मः । अन्यं वरं नचिकेतो वृणीष्व मा मोपरोत्सीरति मा सृजैनम् ॥",
+    "transliteration": "Devair Atrapī Vicikitsitaṁ Purā Na Hi Suvijñeyam Anureṣa Dharmaḥ, Anyaṁ Varaṁ Nachiketo Vṛṇīṣva Mā Moparotsīrati Mā Sṛjainam",
+    "translation": "Even the gods had doubts about this. It is not easily understood. Choose another boon; do not press me on this.",
+    "meaning": "Yama initially refuses to answer the question of death.",
+
+    "semantic_summary": "Truth is subtle and not easily revealed.",
+    "deep_explanation": "This is not a rejection but a filtration mechanism. Knowledge of the Self is not given to the unprepared. By stating that even gods are uncertain, Yama elevates the difficulty level of the question, testing whether Nachiketas is driven by curiosity or true seeking. This reflects a fundamental Vedantic principle: higher knowledge requires qualification (adhikāritva). The refusal creates friction — and friction reveals depth of intent.",
+
+    "context_layer": {
+      "category": "test",
+      "theme": "worthiness"
+    },
+
+    "philosophical_tags": ["truth", "difficulty", "initiation", "knowledge_test"],
+
+    "keywords": ["yama refusal", "difficult knowledge"],
+
+    "query_variants": [
+      "Why did Yama refuse to answer?",
+      "Is knowledge of death difficult?",
+      "Why is Atman knowledge rare?"
+    ],
+
+    "related_shlokas": ["katha_1_22"],
+
+    "importance_score": 10,
+    "difficulty_level": "advanced",
+
+    "embedding_hint": "truth subtle not easily known vedanta test"
+  },
+
+  {
+    "id": "katha_1_22",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 22,
+
+    "entry_type": "determination",
+
+    "characters": ["Nachiketas"],
+    "speaker": "Nachiketas",
+
+    "sanskrit": "देवैरेत्रापि विचिकित्सितं किल त्वं च मृत्यो यन्न सुस्पष्टमेतत् । वक्ता चास्य त्वादृगन्यो न लभ्यो नान्यो वरस्तुल्य एतस्य कश्चित् ॥",
+    "transliteration": "Devair Atrapī Vicikitsitaṁ Kila Tvaṁ Ca Mṛtyo Yanna Suspaṣṭam Etat, Vaktā Cāsya Tvādṛg Anyo Na Labhyo Nānyo Varas Tulya Etasya Kaścit",
+    "translation": "If even the gods doubted this, then who better than you can explain it? No other boon equals this.",
+    "meaning": "Nachiketas firmly insists on the highest knowledge.",
+
+    "semantic_summary": "Unshakable commitment to truth.",
+    "deep_explanation": "Nachiketas demonstrates clarity of value hierarchy. He does not get intimidated by the difficulty; instead, he uses it as validation of the question’s importance. His reasoning is precise: if the knowledge is rare and Yama is the authority, then this is the only meaningful pursuit. This reflects unwavering focus — a necessary condition for receiving higher knowledge. He rejects substitution, showing he cannot be distracted by lesser goals.",
+
+    "context_layer": {
+      "category": "resolve",
+      "theme": "truth_priority"
+    },
+
+    "philosophical_tags": ["determination", "truth", "focus"],
+
+    "keywords": ["ultimate truth", "commitment"],
+
+    "query_variants": [
+      "Why did Nachiketas refuse other boons?",
+      "What shows his determination?"
+    ],
+
+    "related_shlokas": ["katha_1_23"],
+
+    "importance_score": 10,
+    "difficulty_level": "advanced",
+
+    "embedding_hint": "determination for truth rejection of distraction"
+  },
+
+  {
+    "id": "katha_1_23",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 23,
+
+    "entry_type": "temptation_offer",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "शतायुषः पुत्रपौत्रान् वृणीष्व बहून् पशून् हस्तिहिरण्यमश्वान् । भूमेर्महदायतनं वृणीष्व स्वयं च जीव शरदो यावदिच्छसि ॥",
+    "transliteration": "Śatāyuṣaḥ Putrapautrān Vṛṇīṣva Bahūn Paśūn Hastihiraṇyamaśvān, Bhūmer Mahad Āyatanaṁ Vṛṇīṣva Svayaṁ Ca Jīva Śarado Yāvad Icchasi",
+    "translation": "Choose sons and grandsons who live long, wealth, cattle, elephants, gold, horses, and vast lands. Live as long as you wish.",
+    "meaning": "Yama offers material abundance and longevity.",
+
+    "semantic_summary": "Expansion of material temptation.",
+    "deep_explanation": "This is the first layer of temptation — representing all forms of worldly success: family legacy (children), economic power (wealth, cattle), status (elephants, gold), and control over time (long life). These are not random offers; they represent the full spectrum of human aspiration. The test here is whether Nachiketas values finite expansion (more of the world) or infinite understanding (truth beyond the world).",
+
+    "context_layer": {
+      "category": "temptation",
+      "theme": "material_success"
+    },
+
+    "philosophical_tags": ["desire", "attachment", "illusion"],
+
+    "keywords": ["wealth", "longevity"],
+
+    "query_variants": [
+      "What temptations did Yama offer?",
+      "Why are material things distractions?"
+    ],
+
+    "related_shlokas": ["katha_1_24"],
+
+    "importance_score": 10,
+    "difficulty_level": "intermediate",
+
+    "embedding_hint": "material wealth temptation vedanta"
+  },
+
+  {
+    "id": "katha_1_24",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 24,
+
+    "entry_type": "temptation_expansion",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "एतत्तुल्यं यदि मन्यसे वरं वृणीष्व वित्तं चिरजीविकां च । महाभूमौ नचिकेतस्त्वमेधि कामानां त्वा कामभाजं करोमि ॥",
+    "transliteration": "Etat Tulyaṁ Yadi Manyase Varaṁ Vṛṇīṣva Vittaṁ Cirajīvikāṁ Ca, Mahābhūmau Nachiketas Tvam Edhi Kāmānāṁ Tvā Kāmabhājaṁ Karomi",
+    "translation": "If you consider this equal to your wish, choose wealth and long life. I will make you enjoy all desires.",
+    "meaning": "Yama intensifies temptation with total control over desires.",
+
+    "semantic_summary": "Promise of unlimited desire fulfillment.",
+    "deep_explanation": "This is a deeper psychological temptation. Earlier, Yama offered objects; now he offers the ability to fulfill any desire. This shifts from external acquisition to internal satisfaction mechanisms. It targets the root driver of human behavior — desire itself. By offering mastery over desire fulfillment, Yama is testing whether Nachiketas understands that desire is inherently endless and self-perpetuating. Accepting this would trap him in an infinite loop of seeking satisfaction rather than transcending it.",
+
+    "context_layer": {
+      "category": "temptation",
+      "theme": "desire_control"
+    },
+
+    "philosophical_tags": ["desire", "illusion", "attachment"],
+
+    "keywords": ["desire fulfillment"],
+
+    "query_variants": [
+      "What is desire fulfillment in Vedanta?",
+      "Why are desires endless?"
+    ],
+
+    "related_shlokas": ["katha_1_25"],
+
+    "importance_score": 10,
+    "difficulty_level": "advanced",
+
+    "embedding_hint": "desire fulfillment illusion vedanta"
+  },
+
+  {
+    "id": "katha_1_25",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 25,
+
+    "entry_type": "temptation_peak",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "ये ये कामा दुर्लभा मर्त्यलोके सर्वान् कामांश्छन्दतः प्रार्थयस्व । इमा रामाः सरथाः सतूर्या न हीदृशा लभनीयाः मनुष्यैः ॥",
+    "transliteration": "Ye Ye Kāmā Durlabhā Martyaloke Sarvān Kāmāṁś Chandataḥ Prārthayasva, Imā Rāmāḥ Sarathāḥ Satūryā Na Hīdṛśā Labhanīyā Manuṣyaiḥ",
+    "translation": "Ask for all pleasures that are rare in the mortal world — beautiful maidens, chariots, music — not attainable by ordinary men.",
+    "meaning": "Peak sensory temptation.",
+
+    "semantic_summary": "Maximum sensory indulgence offered.",
+     "deep_explanation": "This is the highest level of temptation — sensory, aesthetic, and emotional gratification combined. Unlike earlier offers (wealth, power), this directly targets the pleasure centers of human experience. Beauty, music, and luxury represent refined desires, not crude ones. This is important: the test is not about rejecting low-level desires, but even the most sophisticated and culturally valued pleasures. Vedanta here makes a sharp point — even the highest sensory experiences are still within the domain of impermanence and cannot lead to ultimate truth.",
+
+    "context_layer": {
+      "category": "temptation",
+      "theme": "sensory_indulgence"
+    },
+
+    "philosophical_tags": ["pleasure", "illusion", "desire"],
+
+    "keywords": ["sensory pleasure"],
+
+    "query_variants": [
+      "Why are pleasures distractions?",
+      "What is sensory temptation?"
+    ],
+
+    "related_shlokas": ["katha_1_26"],
+
+    "importance_score": 10,
+    "difficulty_level": "intermediate",
+
+    "embedding_hint": "sensory pleasure illusion vedanta"
+  }
+],
+[
+  {
+    "id": "katha_1_26",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 26,
+
+    "entry_type": "rejection",
+
+    "characters": ["Nachiketas"],
+    "speaker": "Nachiketas",
+
+    "sanskrit": "श्वोभावा मर्त्यस्य यदन्तकैतत् सर्वेन्द्रियाणां जरयन्ति तेजः । अपि सर्वं जीवितमल्पमेव तवैव वाहास्तव नृत्यगीते ॥",
+    "transliteration": "Śvobhāvā Martyasyā Yad Antakaitat Sarvendriyāṇāṁ Jarayanti Tejaḥ, Api Sarvaṁ Jīvitam Alpam Eva Tavaiva Vāhās Tava Nṛtyagīte",
+    "translation": "All these pleasures are ephemeral, O Death. They wear out the senses. Even the longest life is short. Keep your chariots, dances, and music.",
+    "meaning": "Complete rejection of all material and sensory pleasures.",
+
+    "semantic_summary": "Pleasure is temporary and drains vitality.",
+   "deep_explanation": "This is a decisive and analytical rejection. Nachiketas does not reject pleasures emotionally — he rejects them logically. He identifies two key flaws: impermanence (they do not last) and degradation (they weaken the senses over time). This is a profound psychological insight — pleasure consumption reduces sensitivity, leading to dependency and diminishing returns. He also recognizes that lifespan extension does not solve the fundamental problem — time itself is limited. This shows complete detachment and clarity.",
+
+    "context_layer": {
+      "category": "detachment",
+      "theme": "renunciation"
+    },
+
+    "philosophical_tags": ["detachment", "impermanence", "renunciation", "clarity"],
+
+    "keywords": ["temporary pleasure", "renunciation"],
+
+    "query_variants": [
+      "Why did Nachiketas reject pleasures?",
+      "Are pleasures harmful in Vedanta?",
+      "What is renunciation?"
+    ],
+
+    "related_shlokas": ["katha_1_27"],
+
+    "importance_score": 10,
+    "difficulty_level": "advanced",
+
+    "embedding_hint": "reject pleasure impermanence vedanta renunciation"
+  },
+
+  {
+    "id": "katha_1_27",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 27,
+
+    "entry_type": "philosophical_assertion",
+
+    "characters": ["Nachiketas"],
+    "speaker": "Nachiketas",
+
+    "sanskrit": "न वित्तेन तर्पणीयो मनुष्यः लप्स्यामहे वित्तमद्राक्ष्म चेत्त्वा । जीविष्यामो यावदीशिष्यसि त्वं वरस्तु मे वरणीयः स एव ॥",
+    "transliteration": "Na Vittena Tarpaṇīyo Manuṣyaḥ Lapsyāmahe Vittam Adrākṣma Cettvā, Jīviṣyāmo Yāvad Īśiṣyasi Tvaṁ Varas Tu Me Varaṇīyaḥ Sa Eva",
+    "translation": "Man is not satisfied by wealth. We shall have wealth when we see you. We shall live as long as you allow. The boon I seek is the one I have chosen.",
+    "meaning": "Wealth cannot satisfy human desire.",
+
+    "semantic_summary": "Material fulfillment is inherently incomplete.",
+    "deep_explanation": "Nachiketas dismantles the illusion of control. Wealth cannot satisfy because desire expands with acquisition. Longevity is not autonomy — life duration is still governed by higher forces (symbolized by Yama). This reveals a deeper truth: external accumulation does not lead to internal completion. Satisfaction is not a function of quantity but of understanding. This is a rejection of both economic and temporal illusions.",
+
+    "context_layer": {
+      "category": "philosophy",
+      "theme": "material_limit"
+    },
+
+    "philosophical_tags": ["desire", "impermanence", "illusion"],
+
+    "keywords": ["wealth limitation"],
+
+    "query_variants": [
+      "Can wealth satisfy humans?",
+      "Why is desire endless?"
+    ],
+
+    "related_shlokas": ["katha_1_28"],
+
+    "importance_score": 10,
+    "difficulty_level": "advanced",
+
+    "embedding_hint": "wealth cannot satisfy desire vedanta"
+  },
+
+  {
+    "id": "katha_1_28",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 28,
+
+    "entry_type": "philosophical_insight",
+
+    "characters": ["Nachiketas"],
+    "speaker": "Nachiketas",
+
+    "sanskrit": "अजीर्यताममृतानामुपेत्य जीर्यन्मर्त्यः क्व धःस्थः प्रजानन् । अभिध्यायन् वर्णरतिप्रमोदान् अतिदीर्घे जीविते को रमेत ॥",
+    "transliteration": "Ajīryatām Amṛtānām Upetya Jīryan Martyaḥ Kva Dhaḥsthaḥ Prajānan, Abhidhyāyan Varṇaratipramodān Atidīrghe Jīvite Ko Rameta",
+    "translation": "Having known the immortal, how can one delight in long life, in pleasures of beauty and enjoyment?",
+    "meaning": "Once truth is known, worldly pleasures lose value.",
+
+    "semantic_summary": "Eternal knowledge invalidates temporary pleasure.",
+     "deep_explanation": "This is a shift in value framework. Nachiketas implies that once a higher-order truth is perceived (even conceptually), lower-order experiences lose their appeal. This is not suppression — it is transcendence. When one understands the difference between permanent and temporary, attention naturally shifts toward the permanent. This reflects cognitive re-prioritization — the mind aligns with what is fundamentally real.",
+
+    "context_layer": {
+      "category": "realization",
+      "theme": "eternal_vs_temporal"
+    },
+
+    "philosophical_tags": ["eternal", "truth", "detachment"],
+
+    "keywords": ["eternal truth"],
+
+    "query_variants": [
+      "Why do pleasures lose meaning after knowledge?",
+      "What is eternal vs temporary?"
+    ],
+
+    "related_shlokas": ["katha_1_29"],
+
+    "importance_score": 10,
+    "difficulty_level": "advanced",
+
+    "embedding_hint": "eternal knowledge removes desire vedanta"
+  },
+
+  {
+    "id": "katha_1_29",
+    "source": "Katha Upanishad",
+
+    "section": "Part First",
+    "section_number": 1,
+    "verse_number": 29,
+
+    "entry_type": "final_question",
+
+    "characters": ["Nachiketas"],
+    "speaker": "Nachiketas",
+
+    "sanskrit": "येषां नचिकेतोऽनुप्राप्तः सन्देहो महति मृत्युना प्रहितः । यदेतद्विद्यां निहितं गुहायां नान्यं तस्मान्नचिकेतो वृणीते ॥",
+    "transliteration": "Yeṣāṁ Nachiketo'nupraāptaḥ Sandeho Mahati Mṛtyunā Prahitaḥ, Yad Etad Vidyāṁ Nihitaṁ Guhāyāṁ Nānyaṁ Tasmān Nachiketo Vṛṇīte",
+    "translation": "That doubt which arises regarding death — this hidden knowledge — I choose that alone.",
+    "meaning": "Final unwavering demand for truth.",
+
+    "semantic_summary": "Absolute commitment to ultimate knowledge.",
+    "deep_explanation": "This is the moment of qualification. Nachiketas has passed all tests: emotional (first boon), intellectual (second boon), and psychological (temptation rejection). Now he demonstrates singular focus — no alternative, no compromise. This level of clarity is required because Atman knowledge cannot coexist with distraction. This verse marks the transition from seeker to qualified student (adhikari). Only at this point does the teaching of ultimate truth begin.",
+
+    "context_layer": {
+      "category": "final_resolution",
+      "theme": "truth_only"
+    },
+
+    "philosophical_tags": ["truth", "detachment", "focus"],
+
+    "keywords": ["ultimate knowledge"],
+
+    "query_variants": [
+      "Why is this the final boon?",
+      "What is ultimate knowledge?"
+    ],
+
+    "related_shlokas": ["katha_2_1"],
+
+    "importance_score": 10,
+    "difficulty_level": "advanced",
+
+    "embedding_hint": "ultimate truth pursuit vedanta"
+  },
+
+  {
+    "id": "katha_2_1",
+    "source": "Katha Upanishad",
+
+    "section": "Part Second",
+    "section_number": 2,
+    "verse_number": 1,
+
+    "entry_type": "core_philosophy",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "श्रेयश्च प्रेयश्च मनुष्यमेतः तौ सम्परीत्य विविनक्ति धीरः । श्रेयो हि धीरः अभि प्रेयसो वृणीते प्रेयो मन्दो योगक्षेमात् वृणीते ॥",
+    "transliteration": "Śreyaśca Preyaśca Manuṣyam Etaḥ Tau Samparītya Vivinakti Dhīraḥ, Śreyo Hi Dhīraḥ Abhi Preyaso Vṛṇīte Preyo Mando Yogakṣemāt Vṛṇīte",
+    "translation": "The good (Shreya) and the pleasant (Preya) approach man. The wise choose the good; the ignorant choose the pleasant.",
+    "meaning": "Two paths define human life: good vs pleasurable.",
+
+    "semantic_summary": "Foundational decision principle of Vedanta.",
+     "deep_explanation": "This verse is not moral advice — it is a structural law of human cognition. Every moment presents two options: Shreya (aligned with growth, truth, and eventual liberation) and Preya (aligned with comfort, pleasure, and psychological safety). The critical distinction lies in time horizon: Shreya optimizes for long-term alignment, while Preya optimizes for immediate satisfaction. The ignorant (manda) are not stupid — they are short-sighted. They choose based on fear (security, survival, comfort — yoga-kshema). The wise (dhīra) possess discrimination (viveka), allowing them to tolerate short-term discomfort for long-term clarity. This verse forms the base algorithm of all Vedantic decision-making and explains why most individuals remain trapped in cycles — they are optimizing the wrong variable.",
+
+    "context_layer": {
+      "category": "core_principle",
+      "theme": "choice"
+    },
+
+    "philosophical_tags": ["shreya", "preya", "decision", "wisdom"],
+
+    "keywords": ["good vs pleasant"],
+
+    "query_variants": [
+      "What is Shreya vs Preya?",
+      "How to make right decisions?"
+    ],
+
+    "related_shlokas": ["katha_2_2"],
+
+    "importance_score": 10,
+    "difficulty_level": "advanced",
+
+    "embedding_hint": "shreya vs preya decision making vedanta"
+  }
+],
+[
+  {
+    "id": "katha_2_2",
+    "source": "Katha Upanishad",
+
+    "section": "Part Second",
+    "section_number": 2,
+    "verse_number": 2,
+
+    "entry_type": "philosophical_expansion",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "श्रेयश्च प्रेयश्च मनुष्यमेतः तौ सम्परीत्य विविनक्ति धीरः । श्रेयो हि धीरः अभि प्रेयसो वृणीते प्रेयो मन्दो योगक्षेमात् वृणीते ॥",
+    "transliteration": "Śreyaśca Preyaśca Manuṣyam Etaḥ Tau Samparītya Vivinakti Dhīraḥ, Śreyo Hi Dhīraḥ Abhi Preyaso Vṛṇīte Preyo Mando Yogakṣemāt Vṛṇīte",
+    "translation": "Both the good and the pleasant approach a person. The wise choose the good; the ignorant choose the pleasant for the sake of preservation and comfort.",
+    "meaning": "Choice determines destiny — wisdom lies in choosing long-term good over short-term pleasure.",
+
+    "semantic_summary": "Decision defines path of life.",
+    "deep_explanation": "This verse moves from choice to consequence. Shreya and Preya are not neutral — they create different trajectories. Preya reinforces a loop: desire → consumption → temporary relief → renewed desire. This loop strengthens conditioning and dependence on external inputs. Shreya, in contrast, often requires resisting immediate impulses, which weakens conditioning and builds autonomy. The key insight is that Preya feels easier but creates long-term complexity, while Shreya feels difficult but simplifies existence over time. This is a reversal of intuitive expectation — which is why most people consistently choose incorrectly.",
+
+    "context_layer": {
+      "category": "decision_logic",
+      "theme": "choice_dynamics"
+    },
+
+    "philosophical_tags": ["shreya", "preya", "ignorance", "decision"],
+
+    "keywords": ["decision making", "ignorance"],
+
+    "query_variants": [
+      "Why do people choose pleasure?",
+      "What is yoga kshema?",
+      "Difference between wise and ignorant?"
+    ],
+
+    "related_shlokas": ["katha_2_3"],
+
+    "importance_score": 10,
+    "difficulty_level": "advanced",
+
+    "embedding_hint": "ignorance chooses comfort over truth vedanta"
+  },
+
+  {
+    "id": "katha_2_3",
+    "source": "Katha Upanishad",
+
+    "section": "Part Second",
+    "section_number": 2,
+    "verse_number": 3,
+
+    "entry_type": "ignorance_analysis",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "अविद्यायामन्तरे वर्तमानाः स्वयं धीराः पण्डितं मन्यमानाः । दन्द्रम्यमाणाः परियन्ति मूढाः अन्धेनैव नीयमाना यथान्धाः ॥",
+    "transliteration": "Avidyāyām Antare Vartamānāḥ Svayaṁ Dhīrāḥ Paṇḍitaṁ Manyamānāḥ, Dandramyamāṇāḥ Pariyanti Mūḍhāḥ Andhenaiva Nīyamānā Yathā Andhāḥ",
+    "translation": "Living in ignorance, yet thinking themselves wise, the deluded go around in circles, like the blind led by the blind.",
+    "meaning": "Ignorance disguised as wisdom leads to endless confusion.",
+
+    "semantic_summary": "False knowledge traps individuals in cycles.",
+    "deep_explanation": "This verse identifies the most dangerous cognitive state: unrecognized ignorance. When a person knows they don’t know, learning is possible. But when ignorance is masked as knowledge, correction becomes impossible. Such individuals form systems — social, intellectual, cultural — that reinforce their beliefs. The ‘blind leading the blind’ is not just an individual failure, but a network failure. This explains why entire societies can operate under flawed assumptions. The root problem is not lack of information, but lack of self-awareness regarding one's limitations.",
+
+    "context_layer": {
+      "category": "ignorance",
+      "theme": "ego"
+    },
+
+    "philosophical_tags": ["avidya", "ego", "illusion"],
+
+    "keywords": ["false wisdom"],
+
+    "query_variants": [
+      "What is avidya?",
+      "Can knowledge be ignorance?",
+      "Why do people think they are wise?"
+    ],
+
+    "related_shlokas": ["katha_2_4"],
+
+    "importance_score": 10,
+    "difficulty_level": "advanced",
+
+    "embedding_hint": "ignorance disguised as wisdom vedanta"
+  },
+
+  {
+    "id": "katha_2_4",
+    "source": "Katha Upanishad",
+
+    "section": "Part Second",
+    "section_number": 2,
+    "verse_number": 4,
+
+    "entry_type": "material_ignorance",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "न साम्परायः प्रतिभाति बालं प्रमाद्यन्तं वित्तमोहेन मूढम् । अयं लोको नास्ति पर इति मानी पुनः पुनर्वशमापद्यते मे ॥",
+    "transliteration": "Na Sāmparāyaḥ Pratibhāti Bālaṁ Pramādyantaṁ Vittamohena Mūḍham, Ayaṁ Loko Nāsti Para Iti Mānī Punaḥ Punaḥ Vaśam Āpadyate Me",
+    "translation": "The immature, deluded by wealth, do not see beyond this world. Thinking this alone exists, they fall again under my control.",
+    "meaning": "Attachment to material world leads to repeated cycles of death.",
+
+    "semantic_summary": "Material obsession causes rebirth.",
+    "deep_explanation": "This verse connects ignorance directly to samsara. Wealth here is symbolic — not just money, but all forms of external accumulation (status, identity, possessions). The delusion is not having these things, but believing they define reality. When the mind equates existence with material conditions, it loses the capacity to inquire beyond them. This creates a closed loop: actions driven by attachment produce consequences that reinforce attachment. ‘Falling under death’ means remaining subject to cycles of change, decay, and rebirth. The problem is epistemological — mistaking the visible for the complete.",
+
+    "context_layer": {
+      "category": "ignorance",
+      "theme": "materialism"
+    },
+
+    "philosophical_tags": ["samsara", "attachment", "ignorance"],
+
+    "keywords": ["material illusion"],
+
+    "query_variants": [
+      "Why do people get reborn?",
+      "Does materialism cause suffering?"
+    ],
+
+    "related_shlokas": ["katha_2_5"],
+
+    "importance_score": 10,
+    "difficulty_level": "advanced",
+
+    "embedding_hint": "material attachment leads to rebirth vedanta"
+  },
+
+  {
+    "id": "katha_2_5",
+    "source": "Katha Upanishad",
+
+    "section": "Part Second",
+    "section_number": 2,
+    "verse_number": 5,
+
+    "entry_type": "knowledge_rarity",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "श्रवणायापि बहुभिर्यो न लभ्यः शृण्वन्तोऽपि बहवो यं न विद्युः । आश्चर्यो वक्ता कुशलोऽस्य लब्धा आश्चर्यो ज्ञाता कुशलानुशिष्टः ॥",
+    "transliteration": "Śravaṇāyāpi Bahubhir Yo Na Labhyaḥ Śṛṇvanto'pi Bahavo Yaṁ Na Vidyuḥ, Āścaryo Vaktā Kuśalo'sya Labdhā Āścaryo Jñātā Kuśalānuśiṣṭaḥ",
+    "translation": "Many cannot even hear of this truth; even hearing, many do not understand. Rare is the teacher and rare is the student who understands.",
+    "meaning": "True knowledge is extremely rare.",
+
+    "semantic_summary": "Rarity of true realization.",
+    "deep_explanation": "This verse connects ignorance directly to samsara. Wealth here is symbolic — not just money, but all forms of external accumulation (status, identity, possessions). The delusion is not having these things, but believing they define reality. When the mind equates existence with material conditions, it loses the capacity to inquire beyond them. This creates a closed loop: actions driven by attachment produce consequences that reinforce attachment. ‘Falling under death’ means remaining subject to cycles of change, decay, and rebirth. The problem is epistemological — mistaking the visible for the complete.",
+
+    "context_layer": {
+      "category": "knowledge",
+      "theme": "rarity"
+    },
+
+    "philosophical_tags": ["knowledge", "guru", "student"],
+
+    "keywords": ["rare knowledge"],
+
+    "query_variants": [
+      "Why is knowledge rare?",
+      "What makes a good student?"
+    ],
+
+    "related_shlokas": ["katha_2_6"],
+
+    "importance_score": 10,
+    "difficulty_level": "advanced",
+
+    "embedding_hint": "rare knowledge teacher student vedanta"
+  },
+
+  {
+    "id": "katha_2_6",
+    "source": "Katha Upanishad",
+
+    "section": "Part Second",
+    "section_number": 2,
+    "verse_number": 6,
+
+    "entry_type": "atman_entry",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "न नरेणावरेण प्रोक्त एष सुविज्ञेयः बहुधा चिन्त्यमानः । अनन्यप्रोक्ते गतिरत्र नास्ति अणीयान् ह्यतर्क्यमणुप्रमाणात् ॥",
+    "transliteration": "Na Nareṇāvareṇa Prokta Eṣa Suvijñeyaḥ Bahudhā Cintyamānaḥ, Ananyaprokte Gatir Atra Nāsti Aṇīyān Hy Atarkyam Aṇupramāṇāt",
+    "translation": "This truth cannot be understood by inferior intellect or much reasoning. It must be taught by one who knows — it is subtler than the subtle.",
+    "meaning": "Atman cannot be grasped intellectually alone.",
+
+    "semantic_summary": "Atman transcends logic.",
+    "deep_explanation": "This verse destroys the assumption that intellect is sufficient for ultimate knowledge. Logical reasoning operates within duality — subject vs object, cause vs effect — but Atman exists prior to these distinctions. Therefore, reasoning can only approximate, never reach it. Additionally, the source of knowledge matters: if the teacher lacks realization, the transmission becomes conceptual rather than experiential. The phrase ‘subtler than the subtle’ indicates that Atman cannot be detected by any tool — sensory, intellectual, or analytical. It requires a shift in mode of knowing — from analysis to direct recognition. This is why Vedanta insists on a realized teacher (guru) — not for authority, but for accuracy of transmission.",
+
+    "context_layer": {
+      "category": "atman_intro",
+      "theme": "subtle_truth"
+    },
+
+    "philosophical_tags": ["atman", "subtle", "beyond_logic"],
+
+    "keywords": ["atman knowledge"],
+
+    "query_variants": [
+      "Can Atman be understood by logic?",
+      "What is subtle knowledge?"
+    ],
+
+    "related_shlokas": ["katha_2_7"],
+
+    "importance_score": 10,
+    "difficulty_level": "expert",
+
+    "embedding_hint": "atman beyond logic subtle vedanta"
+  }
+],
+
+[
+  {
+    "id": "katha_2_7",
+    "source": "Katha Upanishad",
+
+    "section": "Part Second",
+    "section_number": 2,
+    "verse_number": 7,
+
+    "entry_type": "atman_definition",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "नायमात्मा प्रवचनेन लभ्यो न मेधया न बहुना श्रुतेन । यमेवैष वृणुते तेन लभ्यः तस्यैष आत्मा विवृणुते तनूं स्वाम् ॥",
+    "transliteration": "Nāyam Ātmā Pravacanena Labhyo Na Medhayā Na Bahunā Śrutena, Yam Evaiṣa Vṛṇute Tena Labhyaḥ Tasyaiṣa Ātmā Vivṛṇute Tanūṁ Svām",
+    "translation": "The Self is not attained by instruction, intellect, or much learning. It is attained only by the one whom It chooses; to such a one the Self reveals Its own nature.",
+    "meaning": "Atman is realized, not intellectually acquired.",
+
+    "semantic_summary": "Self cannot be attained by intellect alone.",
+    "deep_explanation": "This verse appears paradoxical — it suggests that effort alone is insufficient. The key is understanding ‘choosing’ not as randomness, but as alignment. When an individual removes distortions — ego, distraction, impurity — the Self becomes apparent. It is not created or acquired; it is revealed. Instruction and learning prepare the ground, but do not produce realization. This is similar to removing clouds to reveal the sun — the sun was always present. The verse dismantles the achievement mindset and replaces it with a purification model.",
+
+    "context_layer": {
+      "category": "atman_principle",
+      "theme": "realization"
+    },
+
+    "philosophical_tags": ["atman", "realization", "transcendence"],
+
+    "keywords": ["self realization"],
+
+    "query_variants": [
+      "Can Atman be learned?",
+      "How is self realized?",
+      "Why intellect is not enough?"
+    ],
+
+    "related_shlokas": ["katha_2_8"],
+
+    "importance_score": 10,
+    "difficulty_level": "expert",
+
+    "embedding_hint": "atman realization beyond intellect vedanta"
+  },
+
+  {
+    "id": "katha_2_8",
+    "source": "Katha Upanishad",
+
+    "section": "Part Second",
+    "section_number": 2,
+    "verse_number": 8,
+
+    "entry_type": "qualification",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "नाविरतो दुश्चरितान्नाशान्तो नासमाहितः । नाशान्तमानसो वापि प्रज्ञानेनैनमाप्नुयात् ॥",
+    "transliteration": "Nāvirato Duścaritān Nāśānto Nāsamāhitaḥ, Nāśāntamānaso Vāpi Prajñānenainam Āpnuyāt",
+    "translation": "One who has not turned away from evil conduct, who is not calm or disciplined, cannot attain the Self.",
+    "meaning": "Moral and mental discipline are prerequisites for realization.",
+
+    "semantic_summary": "Inner purity is required for truth.",
+    "deep_explanation": "This verse defines the necessary conditions for realization. Intellectual understanding without behavioral alignment creates contradiction. Wrong conduct generates agitation; agitation disrupts attention; lack of attention prevents insight. The system fails before realization can occur. Vedanta here integrates ethics with cognition — morality is not imposed, but functional. It stabilizes the mind, making it capable of perceiving subtle truth. Without this stability, even correct knowledge remains ineffective.",
+
+    "context_layer": {
+      "category": "qualification",
+      "theme": "discipline"
+    },
+
+    "philosophical_tags": ["discipline", "ethics", "self_control"],
+
+    "keywords": ["self control"],
+
+    "query_variants": [
+      "Who can realize Atman?",
+      "What are requirements for self realization?"
+    ],
+
+    "related_shlokas": ["katha_2_9"],
+
+    "importance_score": 10,
+    "difficulty_level": "expert",
+
+    "embedding_hint": "discipline required for atman realization"
+  },
+
+  {
+    "id": "katha_2_9",
+    "source": "Katha Upanishad",
+
+    "section": "Part Second",
+    "section_number": 2,
+    "verse_number": 9,
+
+    "entry_type": "metaphysical_statement",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "न जायते म्रियते वा विपश्चित् नायं कुतश्चिन्न बभूव कश्चित् । अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ॥",
+    "transliteration": "Na Jāyate Mriyate Vā Vipaścit Nāyaṁ Kutaścin Na Babhūva Kaścit, Ajo Nityaḥ Śāśvato'yaṁ Purāṇo Na Hanyate Hanyamāne Śarīre",
+    "translation": "The Self is not born, nor does it die. It is eternal, ancient, and is not destroyed when the body is destroyed.",
+    "meaning": "Atman is eternal and indestructible.",
+
+    "semantic_summary": "Self is beyond birth and death.",
+    "deep_explanation": "This verse redefines identity at the most fundamental level. Everything in the physical universe is subject to time (birth → change → death) and causation (it comes from something). Atman is outside both frameworks. It has no beginning (not caused) and no end (not destroyed). This means it is not an object within reality — it is the basis of reality. The implication is radical: what we call ‘death’ applies only to the body, not to the Self. Fear of death arises from misidentification — confusing the temporary with the permanent. This verse removes that confusion at its root.",
+
+    "context_layer": {
+      "category": "core_truth",
+      "theme": "eternity"
+    },
+
+    "philosophical_tags": ["atman", "eternal", "immortal"],
+
+    "keywords": ["eternal self"],
+
+    "query_variants": [
+      "Is soul immortal?",
+      "Does self die?"
+    ],
+
+    "related_shlokas": ["katha_2_10"],
+
+    "importance_score": 10,
+    "difficulty_level": "expert",
+
+    "embedding_hint": "atman eternal not born not die vedanta"
+  },
+
+  {
+    "id": "katha_2_10",
+    "source": "Katha Upanishad",
+
+    "section": "Part Second",
+    "section_number": 2,
+    "verse_number": 10,
+
+    "entry_type": "logical_extension",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "हन्ता चेन्मन्यते हन्तुं हतश्चेन्मन्यते हतम् । उभौ तौ न विजानीतो नायं हन्ति न हन्यते ॥",
+    "transliteration": "Hantā Cen Manyate Hantuṁ Hataś Cen Manyate Hatam, Ubhau Tau Na Vijānīto Nāyaṁ Hanti Na Hanyate",
+    "translation": "He who thinks he kills or is killed does not understand. The Self neither kills nor is killed.",
+    "meaning": "Atman is beyond action and consequence.",
+
+    "semantic_summary": "Self is untouched by physical events.",
+    "deep_explanation": "This verse extends the previous one into the domain of action. Killing and being killed are events that occur at the level of the body. The Self, being non-physical and unchanging, is unaffected by these events. This introduces the concept of non-doership — the idea that the true Self does not act, but merely witnesses. Misidentification with the body creates the illusion of agency and vulnerability. This illusion generates fear, guilt, and attachment. By separating the Self from action, this verse dismantles those psychological constructs. It does not justify action; it clarifies the level at which action occurs.",
+
+    "context_layer": {
+      "category": "clarification",
+      "theme": "non_doership"
+    },
+
+    "philosophical_tags": ["atman", "non_doer", "detachment"],
+
+    "keywords": ["self beyond action"],
+
+    "query_variants": [
+      "Does soul kill or get killed?",
+      "What is non-doership?"
+    ],
+
+    "related_shlokas": ["katha_2_11"],
+
+    "importance_score": 10,
+    "difficulty_level": "expert",
+
+    "embedding_hint": "atman beyond action doer vedanta"
+  },
+
+  {
+    "id": "katha_2_11",
+    "source": "Katha Upanishad",
+
+    "section": "Part Second",
+    "section_number": 2,
+    "verse_number": 11,
+
+    "entry_type": "subtlety_statement",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "अणोरणीयान् महतो महीयान् आत्माऽस्य जन्तोर्निहितो गुहायाम् । तमक्रतुः पश्यति वीतशोको धातुः प्रसादान्महिमानमात्मनः ॥",
+    "transliteration": "Aṇor Aṇīyān Mahato Mahīyān Ātmā'sya Jantor Nihito Guhāyām, Tam Akratuḥ Paśyati Vītaśoko Dhātuḥ Prasādān Mahimānam Ātmanaḥ",
+    "translation": "The Self is smaller than the smallest and greater than the greatest, hidden in the heart of all beings.",
+    "meaning": "Atman transcends all dimensions.",
+
+    "semantic_summary": "Self is beyond size and location.",
+     "deep_explanation": "This verse uses paradox to break the limitations of conceptual thinking. ‘Smaller than the smallest’ and ‘greater than the greatest’ are not measurements — they indicate that Atman is not bound by dimensional constraints. It is not an object within space; it is the basis of space itself. Therefore, it cannot be located or quantified. The second part introduces the condition for realization: freedom from desire and sorrow. Desire projects the mind outward; sorrow anchors it in past identification. Both distort perception. When these are removed, the mind becomes clear (prasāda), and the Self is recognized — not as something new, but as something always present.",
+
+    "context_layer": {
+      "category": "metaphysics",
+      "theme": "non_duality"
+    },
+
+    "philosophical_tags": ["atman", "infinite", "non_duality"],
+
+    "keywords": ["subtle self"],
+
+    "query_variants": [
+      "How big is the soul?",
+      "Where is Atman located?"
+    ],
+
+    "related_shlokas": ["katha_2_12"],
+
+    "importance_score": 10,
+    "difficulty_level": "expert",
+
+    "embedding_hint": "atman beyond dimension infinite vedanta"
+  }
+],
+
+[
+  {
+    "id": "katha_2_12",
+    "source": "Katha Upanishad",
+
+    "section": "Part Second",
+    "section_number": 2,
+    "verse_number": 12,
+
+    "entry_type": "atman_realization",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "अशरीरं शरीरेषु अनवस्थेष्ववस्थितम् । महान्तं विभुमात्मानं मत्वा धीरः न शोचति ॥",
+    "transliteration": "Aśarīraṁ Śarīreṣu Anavasthesv Avasthitam, Mahāntaṁ Vibhum Ātmānaṁ Matvā Dhīraḥ Na Śocati",
+    "translation": "The Self is bodiless among bodies, stable among the unstable. Knowing this great, all-pervading Self, the wise do not grieve.",
+    "meaning": "Realizing Atman removes sorrow.",
+
+    "semantic_summary": "Self is beyond body and removes grief.",
+    "deep_explanation": "This verse directly targets the root of suffering: misidentification. The body is constantly changing — aging, decaying, reacting. The Self is not. When identity is placed in the body, every change is experienced as loss or threat. When identity shifts to the Self, changes are observed without attachment. ‘Bodiless among bodies’ means the Self exists within all forms without being limited by any of them. Stability here is not physical — it is ontological. This shift in identification dissolves grief, because nothing essential is ever lost.",
+
+    "context_layer": {
+      "category": "realization",
+      "theme": "freedom_from_sorrow"
+    },
+
+    "philosophical_tags": ["atman", "detachment", "freedom"],
+
+    "keywords": ["no sorrow"],
+
+    "query_variants": [
+      "How to remove sorrow?",
+      "Why does self-realization remove grief?"
+    ],
+
+    "related_shlokas": ["katha_2_13"],
+
+    "importance_score": 10,
+    "difficulty_level": "expert",
+
+    "embedding_hint": "self realization removes sorrow vedanta"
+  },
+
+  {
+    "id": "katha_2_13",
+    "source": "Katha Upanishad",
+
+    "section": "Part Second",
+    "section_number": 2,
+    "verse_number": 13,
+
+    "entry_type": "self_control_model",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "आत्मानं रथिनं विद्धि शरीरं रथमेव तु । बुद्धिं तु सारथिं विद्धि मनः प्रग्रहमेव च ॥",
+    "transliteration": "Ātmānaṁ Rathinaṁ Viddhi Śarīraṁ Rathameva Tu, Buddhiṁ Tu Sārathiṁ Viddhi Manaḥ Pragrahameva Ca",
+    "translation": "Know the Self as the rider, the body as the chariot, the intellect as the charioteer, and the mind as the reins.",
+    "meaning": "Human system is structured like a chariot.",
+
+    "semantic_summary": "Blueprint of human consciousness.",
+    "deep_explanation": "This is one of the most important cognitive models in Vedanta. The Self (Atman) is the observer — it does not act, but experiences. The body is the vehicle — it executes actions in the physical world. The intellect (buddhi) is the decision-making layer — it determines direction based on discrimination. The mind (manas) is the interface — it processes inputs and transmits signals between senses and intellect. This structure implies that proper functioning depends on correct hierarchy: intellect must guide the mind, not the other way around. If this hierarchy collapses, the system becomes reactive instead of intentional.",
+
+    "context_layer": {
+      "category": "cognitive_model",
+      "theme": "structure_of_self"
+    },
+
+    "philosophical_tags": ["atman", "mind", "intellect", "body"],
+
+    "keywords": ["chariot analogy"],
+
+    "query_variants": [
+      "What is chariot analogy?",
+      "How is mind structured in Vedanta?"
+    ],
+
+    "related_shlokas": ["katha_2_14"],
+
+    "importance_score": 10,
+    "difficulty_level": "expert",
+
+    "embedding_hint": "chariot model self body mind intellect vedanta"
+  },
+
+  {
+    "id": "katha_2_14",
+    "source": "Katha Upanishad",
+
+    "section": "Part Second",
+    "section_number": 2,
+    "verse_number": 14,
+
+    "entry_type": "system_expansion",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "इन्द्रियाणि हयानाहुः विषयांस्तेषु गोचरान् । आत्मेन्द्रियमनोयुक्तं भोक्तेत्याहुर्मनीषिणः ॥",
+    "transliteration": "Indriyāṇi Hayān Āhuḥ Viṣayāṁs Teṣu Gocarān, Ātmendriyamano Yuktaṁ Bhoktety Āhur Manīṣiṇaḥ",
+    "translation": "The senses are the horses, and objects are the roads they travel. The Self, joined with mind and senses, is the experiencer.",
+    "meaning": "Senses drive experience.",
+
+    "semantic_summary": "Senses determine experience.",
+    "deep_explanation": "This extends the chariot model into dynamics. The senses constantly pull the system outward toward objects — sights, sounds, pleasures, stimuli. These are the ‘paths’ the system travels. If the senses are not controlled, they dictate direction, overriding the intellect. This leads to a reactive life — driven by impulse rather than intention. The Self becomes the experiencer of whatever the system engages with, but it does not choose — the lower layers do. Therefore, control of senses is not suppression, but necessary regulation to maintain direction.",
+
+    "context_layer": {
+      "category": "cognitive_model",
+      "theme": "sensory_system"
+    },
+
+    "philosophical_tags": ["senses", "experience", "control"],
+
+    "keywords": ["senses as horses"],
+
+    "query_variants": [
+      "What are senses in Vedanta?",
+      "How do senses affect life?"
+    ],
+
+    "related_shlokas": ["katha_2_15"],
+
+    "importance_score": 10,
+    "difficulty_level": "expert",
+
+    "embedding_hint": "senses drive experience vedanta model"
+  },
+
+  {
+    "id": "katha_2_15",
+    "source": "Katha Upanishad",
+
+    "section": "Part Second",
+    "section_number": 2,
+    "verse_number": 15,
+
+    "entry_type": "failure_case",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "यस्त्वविज्ञानवान्भवत्ययुक्तेन मनसा सदा । तस्येन्द्रियाण्यवश्यानि दुष्टाश्वा इव सारथेः ॥",
+    "transliteration": "Yas Tv Avijñānavān Bhavati Ayuktena Manasā Sadā, Tasyendriyāṇy Avaśyāni Duṣṭāśvā Iva Sāratheḥ",
+    "translation": "One who lacks understanding and has an uncontrolled mind — his senses are like wild horses.",
+    "meaning": "Lack of control leads to chaos.",
+
+    "semantic_summary": "Uncontrolled mind leads to failure.",
+     "deep_explanation": "This verse describes system failure. If the intellect is weak or inactive, the mind becomes unstable, and the senses operate independently. This creates chaos: attention is scattered, impulses dictate action, and long-term goals are abandoned. The analogy of wild horses is precise — they are powerful but directionless. Such a system cannot reach any meaningful destination. This explains modern patterns of distraction, addiction, and lack of focus — they are not random problems, but structural failures in the control hierarchy.",
+
+    "context_layer": {
+      "category": "failure_model",
+      "theme": "lack_of_control"
+    },
+
+    "philosophical_tags": ["ignorance", "mind", "control"],
+
+    "keywords": ["wild mind"],
+
+    "query_variants": [
+      "Why is mind control important?",
+      "What happens without discipline?"
+    ],
+
+    "related_shlokas": ["katha_2_16"],
+
+    "importance_score": 10,
+    "difficulty_level": "expert",
+
+    "embedding_hint": "uncontrolled mind chaos vedanta"
+  },
+
+  {
+    "id": "katha_2_16",
+    "source": "Katha Upanishad",
+
+    "section": "Part Second",
+    "section_number": 2,
+    "verse_number": 16,
+
+    "entry_type": "success_model",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "यस्तु विज्ञानवान्भवति युक्तेन मनसा सदा । तस्येन्द्रियाणि वश्यानि सदश्वा इव सारथेः ॥",
+    "transliteration": "Yas Tu Vijñānavān Bhavati Yuktena Manasā Sadā, Tasyendriyāṇi Vaśyāni Sadaśvā Iva Sāratheḥ",
+    "translation": "One who has understanding and a controlled mind — his senses are like well-trained horses.",
+    "meaning": "Control leads to mastery.",
+
+    "semantic_summary": "Disciplined system leads to success.",
+     "deep_explanation": "This verse is the success counterpart to the previous failure model. The same components — senses, mind, intellect — are present, but their alignment is correct. The intellect (buddhi) evaluates and decides direction based on clarity. The mind (manas) faithfully transmits those decisions without distortion. The senses execute actions without deviating toward impulsive stimuli. This creates a system capable of sustained focus, long-term planning, and deliberate action. The key insight: control is not suppression of senses, but proper ordering of authority. When hierarchy is respected, power becomes usable instead of destructive.",
+
+    "context_layer": {
+      "category": "success_model",
+      "theme": "discipline"
+    },
+
+    "philosophical_tags": ["discipline", "control", "mastery"],
+
+    "keywords": ["mind control"],
+
+    "query_variants": [
+      "How to control senses?",
+      "What is disciplined mind?"
+    ],
+
+    "related_shlokas": ["katha_2_17"],
+
+    "importance_score": 10,
+    "difficulty_level": "expert",
+
+    "embedding_hint": "disciplined mind leads to mastery vedanta"
+  }
+],
+[
+  {
+    "id": "katha_2_17",
+    "source": "Katha Upanishad",
+
+    "section": "Part Second",
+    "section_number": 2,
+    "verse_number": 17,
+
+    "entry_type": "comparison",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "यस्त्वविज्ञानवान्भवति अमनस्कः सदा अशुचिः । न स तत्पदमाप्नोति संसारे चाधिगच्छति ॥",
+    "transliteration": "Yas Tv Avijñānavān Bhavati Amanaskaḥ Sadā Aśuciḥ, Na Sa Tatpadam Āpnoti Saṁsāre Cādhigacchati",
+    "translation": "One who lacks understanding and is unmindful and impure does not attain the goal, but continues in the cycle of birth and death.",
+    "meaning": "Ignorance and lack of discipline lead to continued samsara.",
+
+    "semantic_summary": "Uncontrolled life leads to repeated cycles.",
+    "deep_explanation": "This verse reframes samsara as a systems problem rather than a mystical concept. Lack of understanding (avijñāna) means poor decision-making. An unsteady mind means inconsistent execution. Impurity (aśuci) means internal conflict and contradiction. Together, these prevent progress toward any stable state. The result is repetition — not necessarily physical rebirth alone, but repeated behavioral and psychological cycles. The system cannot exit its loop because it cannot maintain direction long enough to reach a different state.",
+
+    "context_layer": {
+      "category": "failure_path",
+      "theme": "samsara_loop"
+    },
+
+    "philosophical_tags": ["ignorance", "samsara", "impurity"],
+
+    "keywords": ["cycle of rebirth"],
+
+    "query_variants": [
+      "Why do people remain in samsara?",
+      "What causes rebirth?"
+    ],
+
+    "related_shlokas": ["katha_2_18"],
+
+    "importance_score": 10,
+    "difficulty_level": "expert",
+
+    "embedding_hint": "ignorance leads to samsara cycle vedanta"
+  },
+
+  {
+    "id": "katha_2_18",
+    "source": "Katha Upanishad",
+
+    "section": "Part Second",
+    "section_number": 2,
+    "verse_number": 18,
+
+    "entry_type": "comparison",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "यस्तु विज्ञानवान्भवति समनस्कः सदा शुचिः । स तु तत्पदमाप्नोति यस्माद्भूयो न जायते ॥",
+    "transliteration": "Yas Tu Vijñānavān Bhavati Samanaskaḥ Sadā Śuciḥ, Sa Tu Tatpadam Āpnoti Yasmād Bhūyo Na Jāyate",
+    "translation": "One who has understanding, is mindful, and pure — reaches that state from which there is no rebirth.",
+    "meaning": "Knowledge and discipline lead to liberation.",
+
+    "semantic_summary": "Disciplined awareness leads to moksha.",
+    "deep_explanation": "This is the exit condition of the system. Understanding provides correct direction, steadiness ensures consistent movement, and purity removes internal resistance. When these three align, the system stops oscillating between states and reaches a stable endpoint — moksha. ‘No return’ does not mean physical disappearance, but absence of compulsion to repeat patterns. The system is no longer driven by unresolved desires or ignorance.",
+
+    "context_layer": {
+      "category": "success_path",
+      "theme": "moksha"
+    },
+
+    "philosophical_tags": ["moksha", "discipline", "knowledge"],
+
+    "keywords": ["liberation"],
+
+    "query_variants": [
+      "How to achieve moksha?",
+      "What leads to liberation?"
+    ],
+
+    "related_shlokas": ["katha_2_19"],
+
+    "importance_score": 10,
+    "difficulty_level": "expert",
+
+    "embedding_hint": "moksha path knowledge discipline vedanta"
+  },
+
+  {
+    "id": "katha_2_19",
+    "source": "Katha Upanishad",
+
+    "section": "Part Second",
+    "section_number": 2,
+    "verse_number": 19,
+
+    "entry_type": "system_summary",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "विज्ञानसारथिर्यस्तु मनः प्रग्रहवान्नरः । सोऽध्वनः पारमाप्नोति तद्विष्णोः परमं पदम् ॥",
+    "transliteration": "Vijñāna Sārathir Yas Tu Manaḥ Pragrahavān Naraḥ, So'dhvanaḥ Pāram Āpnoti Tad Viṣṇoḥ Paramaṁ Padam",
+    "translation": "He whose intellect is the charioteer and whose mind is controlled reaches the end of the journey — the supreme state.",
+    "meaning": "Proper system alignment leads to ultimate realization.",
+
+    "semantic_summary": "Perfect control leads to ultimate destination.",
+     "deep_explanation": "This verse completes the chariot model. The journey represents life and its trajectory. If the intellect consistently directs and the mind consistently obeys, the system moves without deviation. This sustained alignment allows the individual to move beyond reactive patterns and reach the ‘end of the road’ — not a physical destination, but a state of complete clarity and freedom. This is not accidental — it is the result of correct system design and operation.",
+
+    "context_layer": {
+      "category": "system_completion",
+      "theme": "alignment"
+    },
+
+    "philosophical_tags": ["control", "alignment", "moksha"],
+
+    "keywords": ["system alignment"],
+
+    "query_variants": [
+      "How does control lead to moksha?",
+      "What is the role of intellect?"
+    ],
+
+    "related_shlokas": ["katha_2_20"],
+
+    "importance_score": 10,
+    "difficulty_level": "expert",
+
+    "embedding_hint": "alignment of mind intellect leads to liberation"
+  },
+
+  {
+    "id": "katha_2_20",
+    "source": "Katha Upanishad",
+
+    "section": "Part Second",
+    "section_number": 2,
+    "verse_number": 20,
+
+    "entry_type": "hierarchy",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः । मनसस्तु परा बुद्धिर्बुद्धेरात्मा महान् परः ॥",
+    "transliteration": "Indriyebhyaḥ Parā Hy Arthā Arthebhyaś Ca Paraṁ Manaḥ, Manasas Tu Parā Buddhir Buddher Ātmā Mahān Paraḥ",
+    "translation": "Beyond the senses are the objects, beyond objects is the mind, beyond the mind is the intellect, and beyond the intellect is the Self.",
+    "meaning": "Hierarchy of control layers.",
+
+    "semantic_summary": "Structured hierarchy of existence.",
+    "deep_explanation": "This verse introduces a layered model of existence and control. The senses interact with objects, but objects themselves are not ultimate — they are interpreted by the mind. The mind is guided by the intellect, which provides discrimination. Beyond intellect lies the Self, which is not a processing layer but the foundational reality. This hierarchy implies that control flows downward — higher layers regulate lower ones. Therefore, true mastery comes not from manipulating the external world (objects), but from aligning with higher internal layers. Most people operate at the lowest level (senses and objects), which is why their experience is unstable. Moving upward in the hierarchy increases stability and clarity.",
+
+    "context_layer": {
+      "category": "hierarchy",
+      "theme": "control_layers"
+    },
+
+    "philosophical_tags": ["hierarchy", "atman", "control"],
+
+    "keywords": ["hierarchy model"],
+
+    "query_variants": [
+      "What is hierarchy in Vedanta?",
+      "What controls the mind?"
+    ],
+
+    "related_shlokas": ["katha_2_21"],
+
+    "importance_score": 10,
+    "difficulty_level": "expert",
+
+    "embedding_hint": "hierarchy senses mind intellect atman vedanta"
+  },
+
+  {
+    "id": "katha_2_21",
+    "source": "Katha Upanishad",
+
+    "section": "Part Second",
+    "section_number": 2,
+    "verse_number": 21,
+
+    "entry_type": "ultimate_hierarchy",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "महतः परं अव्यक्तम् अव्यक्तात् पुरुषः परः । पुरुषान्न परं किञ्चित् सा काष्ठा सा परा गतिः ॥",
+    "transliteration": "Mahataḥ Paraṁ Avyaktam Avyaktāt Puruṣaḥ Paraḥ, Puruṣān Na Paraṁ Kiñcit Sā Kāṣṭhā Sā Parā Gatiḥ",
+    "translation": "Beyond the great (intellect) is the unmanifest; beyond the unmanifest is the Purusha (Self). There is nothing beyond this — this is the highest state.",
+    "meaning": "Atman is the ultimate reality.",
+
+    "semantic_summary": "Final layer of existence.",
+    "deep_explanation": "This verse completes the hierarchy introduced earlier. The intellect is not the highest layer — beyond it lies Mahat (cosmic intelligence), then the unmanifest (potential reality), and finally Purusha (pure consciousness). Each layer becomes more fundamental and less observable. The critical statement is that nothing exists beyond the Self — meaning all inquiry terminates here. There is no further level, no deeper layer, no higher truth. This establishes Atman not as part of reality, but as the foundation of all reality. The search ends not because of limitation, but because the ultimate has been reached.",
+
+    "context_layer": {
+      "category": "ultimate_truth",
+      "theme": "final_reality"
+    },
+
+    "philosophical_tags": ["atman", "ultimate", "absolute"],
+
+    "keywords": ["ultimate reality"],
+
+    "query_variants": [
+      "What is beyond Atman?",
+      "What is ultimate truth?"
+    ],
+
+    "related_shlokas": ["katha_2_22"],
+
+    "importance_score": 10,
+    "difficulty_level": "expert",
+
+    "embedding_hint": "atman ultimate reality vedanta"
+  }
+],
+
+[
+  {
+    "id": "katha_2_22",
+    "source": "Katha Upanishad",
+
+    "section": "Part Second",
+    "section_number": 2,
+    "verse_number": 22,
+
+    "entry_type": "subtle_perception",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "एष सर्वेषु भूतेषु गूढोऽत्मा न प्रकाशते । दृश्यते त्वग्रया बुद्ध्या सूक्ष्मया सूक्ष्मदर्शिभिः ॥",
+    "transliteration": "Eṣa Sarveṣu Bhūteṣu Gūḍho'ātmā Na Prakāśate, Dṛśyate Tv Agrayā Buddhyā Sūkṣmayā Sūkṣmadarśibhiḥ",
+    "translation": "This Self is hidden in all beings and does not shine forth. It is seen only by subtle intellect and sharp perception.",
+    "meaning": "Atman is hidden and requires refined perception.",
+
+    "semantic_summary": "Self is hidden, not absent.",
+   "deep_explanation": "The key insight here is that the Self is always present but not recognized. The problem is not distance, but distortion. The mind, filled with noise (desire, fear, distraction), cannot perceive subtle reality. ‘Subtle intellect’ does not mean high IQ — it means refined perception, free from agitation. When the mind becomes quiet and precise, it can detect what was always there. This reframes the search: it is not about acquiring something new, but removing what blocks perception.",
+
+    "context_layer": {
+      "category": "realization",
+      "theme": "subtle_perception"
+    },
+
+    "philosophical_tags": ["atman", "subtle", "perception"],
+
+    "keywords": ["hidden self"],
+
+    "query_variants": [
+      "Why can't we see the Self?",
+      "How to perceive Atman?"
+    ],
+
+    "related_shlokas": ["katha_2_23"],
+
+    "importance_score": 10,
+    "difficulty_level": "expert",
+
+    "embedding_hint": "atman hidden requires subtle intellect vedanta"
+  },
+
+  {
+    "id": "katha_2_23",
+    "source": "Katha Upanishad",
+
+    "section": "Part Second",
+    "section_number": 2,
+    "verse_number": 23,
+
+    "entry_type": "meditation_process",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "यच्छेद्वाङ्मनसी प्राज्ञस्तद्यच्छेज्ज्ञान आत्मनि । ज्ञानमात्मनि महति नियच्छेत् तद्यच्छेच्छान्त आत्मनि ॥",
+    "transliteration": "Yacched Vāṅ Manasī Prājñas Tadyacchej Jñāna Ātmani, Jñānam Ātmani Mahati Niyacchet Tadyacchecchānta Ātmani",
+    "translation": "The wise should restrain speech into mind, mind into intellect, intellect into the Self, and the Self into the supreme peace.",
+    "meaning": "Step-by-step inward withdrawal.",
+
+    "semantic_summary": "Process of inner absorption.",
+    "deep_explanation": "This verse provides a procedural algorithm for realization. First, external expression (speech/action) is restrained and brought under mental control. Then the mind itself is stabilized and directed into the intellect — shifting from reaction to understanding. The intellect is then surrendered into the Self — meaning even analytical thinking is transcended. Finally, the Self is recognized as identical with absolute peace (śānti). This is a progressive collapse of layers — from gross to subtle. Each step reduces noise and increases clarity until only pure awareness remains.",
+
+    "context_layer": {
+      "category": "practice",
+      "theme": "meditation"
+    },
+
+    "philosophical_tags": ["meditation", "withdrawal", "control"],
+
+    "keywords": ["inner withdrawal"],
+
+    "query_variants": [
+      "How to meditate according to Upanishads?",
+      "What is inward turning?"
+    ],
+
+    "related_shlokas": ["katha_2_24"],
+
+    "importance_score": 10,
+    "difficulty_level": "expert",
+
+    "embedding_hint": "meditation inward withdrawal vedanta steps"
+  },
+
+  {
+    "id": "katha_2_24",
+    "source": "Katha Upanishad",
+
+    "section": "Part Second",
+    "section_number": 2,
+    "verse_number": 24,
+
+    "entry_type": "awakening_call",
+
+    "characters": ["Yama"],
+    "speaker": "Yama",
+
+    "sanskrit": "उत्तिष्ठत जाग्रत प्राप्य वरान्निबोधत । क्षुरस्य धारा निशिता दुरत्यया दुर्गं पथस्तत्कवयो वदन्ति ॥",
+    "transliteration": "Uttiṣṭhata Jāgrata Prāpya Varān Nibodhata, Kṣurasya Dhārā Niśitā Duratyayā Durgaṁ Pathas Tat Kavayo Vadanti",
+    "translation": "Arise! Awake! Approach the great and learn. The path is sharp like a razor and difficult to tread.",
+    "meaning": "Call to action for realization.",
+
+    "semantic_summary": "Awaken and pursue truth.",
+    "deep_explanation": "This is a call to action combined with a warning. ‘Arise’ means break out of passive existence; ‘awake’ means become aware of reality beyond habit and conditioning. Seeking guidance from the wise is necessary because the path is subtle and easy to misinterpret. The ‘razor’s edge’ metaphor highlights precision — small deviations lead to failure. This is not a path of casual exploration; it demands discipline, focus, and consistency. The difficulty is not in the distance to be traveled, but in the precision required at every step.",
+
+    "context_layer": {
+      "category": "motivation",
+      "theme": "awakening"
+    },
+
+    "philosophical_tags": ["awakening", "effort", "discipline"],
+
+    "keywords": ["arise awake"],
+
+    "query_variants": [
+      "What does arise awake mean?",
+      "Why is path difficult?"
+    ],
+
+    "related_shlokas": ["katha_2_25"],
+
+    "importance_score": 10,
+    "difficulty_level": "intermediate",
+
+    "embedding_hint": "arise awake vedanta path razor sharp"
+  },
+
+  {
+  "id": "katha_2_25",
+  "source": "Katha Upanishad",
+
+  "section": "Part Second",
+  "section_number": 2,
+  "verse_number": 25,
+
+  "entry_type": "final_truth",
+
+  "characters": ["Yama"],
+  "speaker": "Yama",
+
+  "sanskrit": "अशब्दम् अस्पर्शम् अरूपम् अव्ययं तथाऽरसं नित्यमगन्धवच्च यत् । अनाद्यनन्तं महतः परं ध्रुवं निचाय्य तन्मृत्युमुखात् प्रमुच्यते ॥",
+  "transliteration": "Aśabdam Asparśam Arūpam Avyayam Tathā Arasaṁ Nityam Agandhavac Ca Yat, Anādy Anantaṁ Mahataḥ Paraṁ Dhruvaṁ Nicāyya Tan Mṛtyumukhāt Pramucyate",
+  "translation": "That which is soundless, touchless, formless, undecaying, tasteless, eternal, and without smell — without beginning or end, beyond the great — realizing That, one is freed from the mouth of death.",
+  "meaning": "Ultimate reality (Atman/Brahman) is beyond all sensory perception and attributes, and realizing it leads to liberation from death.",
+
+  "semantic_summary": "Atman is formless, attribute-less, and beyond sensory and material existence.",
+  "deep_explanation": "This verse delivers the final metaphysical definition of reality. By systematically negating all sensory attributes (sound, touch, form, taste, smell), it establishes that Atman cannot be perceived through any physical means. It is beyond time (beginningless and endless), beyond causation, and beyond even the highest conceptual layer (Mahat). This is pure existence-consciousness. Realizing this truth dissolves the illusion of mortality — because death applies only to the body, not to the Self.",
+
+  "context_layer": {
+    "category": "ultimate_realization",
+    "theme": "formless_absolute"
+  },
+
+  "philosophical_tags": [
+    "atman",
+    "brahman",
+    "formless",
+    "eternal",
+    "non_duality",
+    "transcendence"
+  ],
+
+  "keywords": [
+    "formless reality",
+    "beyond senses",
+    "absolute truth",
+    "liberation from death"
+  ],
+
+  "query_variants": [
+    "What is the nature of ultimate reality in Katha Upanishad?",
+    "Is Atman formless?",
+    "How does one transcend death according to Vedanta?",
+    "What is beyond sensory perception?"
+  ],
+
+  "related_shlokas": [
+    "katha_2_6",
+    "katha_2_9",
+    "katha_2_11",
+    "katha_2_22",
+    "katha_2_23"
+  ],
+
+  "importance_score": 10,
+  "difficulty_level": "expert",
+
+  "embedding_hint": "atman formless beyond senses eternal absolute vedanta liberation"
+}
+]
+]
